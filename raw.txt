@@ -1,0 +1,1419 @@
+A
+
+ABAIXADOR DE LÍNGUA 
+
+
+Código: BR0348807 
+
+
+Apresentação: UNIDADE (MADEIRA, 14 CM) 
+
+
+Categoria: Assistência Farmacêutica 
+
+
+ÁCIDO ACETILSALICÍLICO 100 MG 
+
+
+Código: BR0267502U0042 
+
+
+Apresentação: COMPRIMIDO 
+
+
+Categoria: Assistência Farmacêutica 
+
+
+ÁCIDO FÓLICO 0,2 MG/ML 
+
+
+Código: BR0278489U0097 
+
+
+Apresentação: SOLUÇÃO ORAL 30 ML 
+
+
+Categoria: Assistência Farmacêutica 
+
+
+ÁCIDO FÓLICO 5 MG 
+
+
+Código: BR0267503U0042 
+
+
+Apresentação: COMPRIMIDO 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+ÁCIDO VALPRÓICO 250 MG 
+
+
+Código: BR0267504U0041 
+
+
+Apresentação: CÁPSULA 
+
+
+Categoria: Assistência Farmacêutica 
+
+
+ÁCIDO VALPRÓICO 50 MG/ML 
+
+
+Código: BR030873200062 
+
+
+Apresentação: XAROPE 100 ML 
+
+
+Categoria: Assistência Farmacêutica 
+
+
+ÁCIDO VALPRÓICO 500 MG 
+
+
+Código: BR0267505U0042 
+
+
+Apresentação: COMPRIMIDO 
+
+
+Categoria: Assistência Farmacêutica 
+
+
+ÁGUA DESTILADA 
+
+
+Código: BR0276839U0063 
+
+
+Apresentação: SOLUÇÃO INJETÁVEL 10 ML 
+
+
+Categoria: Assistência Farmacêutica 
+
+
+AGULHAS HIPODÉRMICAS (DIVERSAS) 
+
+
+Códigos: BR0397513 (13x0,45), BR0397510 (20x0,55), BR0397505 (25x0,7), BR0397502 (25x0,8), BR0279629 (25x6) 
+
+
+Apresentação: UNIDADE 
+
+
+Categoria: Assistência Farmacêutica / Básica 
+
+
+ALBENDAZOL 200 MG 
+
+
+Código: BR0269628 
+
+
+Apresentação: COMPRIMIDO 
+
+
+Categoria: Assistência Farmacêutica 
+
+
+ALBENDAZOL 40 MG/ML 
+
+
+Código: BR0267507U0063 
+
+
+Apresentação: SUSPENSÃO ORAL 10 ML 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+ALBENDAZOL 400 MG 
+
+
+Código: BR0267506U0042 
+
+
+Apresentação: COMPRIMIDO MASTIGÁVEL 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+ÁLCOOL ETÍLICO 70% 
+
+
+
+Códigos: BR0269943U0103 (Gel 500ml), BR026994300171 (Gel 500g), BR0269941U0060 (Solução 1L) 
+
+
+
+Apresentação: FRASCO / UNIDADE 
+
+
+
+Categoria: Assistência Farmacêutica / Básica 
+
+
+
+ALGODÃO HIDRÓFILO 500G 
+
+
+
+Código: BR0320817 
+
+
+
+Apresentação: UNIDADE (SANFONADO) 
+
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+
+ALPRAZOLAM 1 MG E 2 MG 
+
+
+
+Códigos: BR0271356 (1mg), BR0284465 (2mg) 
+
+
+
+Apresentação: COMPRIMIDO 
+
+
+
+Categoria: Assistência Farmacêutica 
+
+
+
+AMBROXOL 3 MG/ML 
+
+
+
+Código: BR0271660-1 
+
+
+
+Apresentação: XAROPE 100 ML 
+
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+
+AMITRIPTILINA 25 MG 
+
+
+
+Código: BR0267512U0042 
+
+
+
+Apresentação: COMPRIMIDO 
+
+
+
+Categoria: Assistência Farmacêutica 
+
+
+
+AMOXICILINA 50 MG/ML E 500 MG 
+
+
+
+Códigos: BR0271111U0110 (Pó 60ml), BR0271089U0041 (Cápsula), BR0271089U0042 (Comprimido) 
+
+
+
+Apresentação: FRASCO / CPS / COMP 
+
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+
+AMOXICILINA 80 MG/ML 
+
+
+Código: BR0271092 
+
+
+Apresentação: PÓ PARA SUSPENSÃO 100 ML 
+
+
+Categoria: Antimicrobianos 
+
+
+AMPICILINA 50 MG/ML 
+
+
+Código: BR0267139 
+
+
+Apresentação: SUSPENSÃO ORAL 60 ML 
+
+
+Categoria: Assistência Farmacêutica 
+
+
+ANLODIPINO 10 MG 
+
+
+Código: BR0268896U0042 
+
+
+Apresentação: COMPRIMIDO 
+
+
+Categoria: Assistência Farmacêutica / Básica 
+
+
+ATADURAS (DIVERSAS) 
+
+
+Códigos: BR0207893 (Algodão 15cm), BR0316084 (Crepom 15cm) 
+
+
+Apresentação: UNIDADE 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+ATENOLOL 25 MG E 50 MG 
+
+
+Códigos: BR0267516 (25mg), BR0267517U0042 (50mg) 
+
+
+Apresentação: COMPRIMIDO 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+ATORVASTATINA 10 MG 
+
+
+Código: BR0268080 
+
+
+Apresentação: COMPRIMIDO 
+
+
+Categoria: Assistência Farmacêutica 
+
+
+AVENTAL DESCARTÁVEL 
+
+
+Código: BR0375041 
+
+
+Apresentação: UNIDADE (TNT, 30 G/M2) 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+AZITROMICINA 1G, 500 MG E SUSPENSÃO 
+
+
+
+Códigos: BR026895U0042 (1g), BR031451700155 (1200mg Pó), BR0314517U0108 (600mg Pó), BR0267140U0042 (500mg) 
+
+
+
+Apresentação: COMP / FRASCO 
+
+
+
+Categoria: Antimicrobianos / Básica 
+
+
+B
+
+BENZILPENICILINA BENZATINA 1.2M E 600K UI 
+
+
+
+Códigos: BR0270612U0118 (1.200.000 UI), BR0270613U0118 (600.000 UI) 
+
+
+
+Apresentação: FRASCO-AMPOLA 
+
+
+
+Categoria: Assistência Farmacêutica 
+
+
+
+BIPERIDENO 2 MG 
+
+
+
+Código: BR027014000042 
+
+
+
+Apresentação: COMPRIMIDO 
+
+
+
+Categoria: Assistência Farmacêutica 
+
+
+
+BRIMONIDINA 0,2% 
+
+
+
+Código: BR0268352-1 
+
+
+
+Apresentação: SOLUÇÃO OFTÁLMICA 5 ML 
+
+
+
+Categoria: Assistência Farmacêutica 
+
+
+
+BROMAZEPAM 3 MG 
+
+
+
+Código: BR0271773 
+
+
+
+Apresentação: COMPRIMIDO 
+
+
+
+Categoria: Assistência Farmacêutica 
+
+
+C
+
+CARBAMAZEPINA 20 MG/ML E 200/400 MG 
+
+
+
+Códigos: BR0272454U0062 (Suspensão), BR0392264 (Xarope), BR0267618U0042 (200mg), BR0267617U0042 (400mg) 
+
+
+
+Apresentação: FRASCO / COMPRIMIDO 
+
+
+
+Categoria: Assistência Farmacêutica 
+
+
+
+CARBONATO DE CÁLCIO 500 MG 
+
+
+Código: BR0270895U0042 
+
+
+Apresentação: COMPRIMIDO 
+
+
+Categoria: Assistência Farmacêutica / Básica 
+
+
+CEFALEXINA 25 MG/ML E 500 MG 
+
+
+Códigos: BR0327792-1 (Solução 100ml), BR0327792 (Solução 60ml), BR0267625U0042 (500mg) 
+
+
+Apresentação: FRASCO / COMPRIMIDO 
+
+
+Categoria: Assistência Farmacêutica / Básica 
+
+
+CETOCONAZOL CREME E 200 MG 
+
+
+Códigos: BR0308736-2 (Creme 30g), BR0267151 (200mg) 
+
+
+Apresentação: BISNAGA / COMPRIMIDO 
+
+
+Categoria: Assistência Farmacêutica / Básica 
+
+
+CIPROFLOXACINO 500 MG 
+
+
+
+Código: BR0267632U0042 
+
+
+
+Apresentação: COMPRIMIDO 
+
+
+
+Categoria: Assistência Farmacêutica Básica / Antimicrobianos 
+
+
+
+CLONAZEPAM 0,5 MG, 2 MG E SOLUÇÃO 
+
+
+
+Códigos: BR0270118 (0,5mg), BR0270119 (2mg), BR0270120U0086 (2,5mg/ml) 
+
+
+
+Apresentação: COMP / FRASCO 20 ML 
+
+
+
+Categoria: Assistência Farmacêutica 
+
+
+
+CLORETO DE SÓDIO 0,9% 
+
+
+
+Códigos: BR0448699 (100ml Inj), BR0268236U0039 (500ml SF), BR0268236U0034 (100ml SF) 
+
+
+
+Apresentação: FRASCO 
+
+
+
+Categoria: Assistência Farmacêutica / Básica 
+
+
+
+COLETORES (URINA E PERFURO-CORTANTE) 
+
+
+
+Códigos: BR0419399 (Urina), BR0363485 (Perfuro-cortante 20L) 
+
+
+
+Apresentação: UNIDADE 
+
+
+
+Categoria: Assistência Farmacêutica 
+
+
+
+COMPRESSA GAZE 7,5 X 7,5 CM 
+
+
+Código: BR0269973 
+
+
+Apresentação: UNIDADE 
+
+
+Categoria: Assistência Farmacêutica 
+
+D
+
+DEXAMETASONA (DIVERSAS) 
+
+
+Códigos: BR0267643U0015 (Creme 10g), BR0268243U0062 (Elixir 100ml), BR0267643-1 (Creme 20g) 
+
+
+Apresentação: BISNAGA / FRASCO 
+
+
+Categoria: Assistência Farmacêutica Básica / Assistência Farmacêutica 
+
+
+DIAZEPAM 5 MG E 10 MG 
+
+
+Códigos: BR0267195U0042 (5mg), BR0267197U0042 (10mg) 
+
+
+Apresentação: COMPRIMIDO 
+
+
+Categoria: Assistência Farmacêutica 
+
+
+DIGOXINA 0,25 MG 
+
+
+Código: BR0267647U0042 
+
+
+Apresentação: COMPRIMIDO 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+DIPIRONA 500 MG E 500 MG/ML 
+
+
+Códigos: BR0267203U0042 (Comprimido), BR0267205U0063 (Solução Oral 10ml) 
+
+
+Apresentação: COMPRIMIDO / FRASCO 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+E
+
+ENALAPRIL 10 MG E 20 MG 
+
+
+Códigos: BR0267651U0042 (10mg), BR0267652U0042 (20mg) 
+
+
+Apresentação: COMPRIMIDO 
+
+
+Categoria: Assistência Farmacêutica Básica / Assistência Farmacêutica 
+
+
+EQUIPO MACROGOTAS 
+
+
+Código: BR0442205 
+
+
+Apresentação: UNIDADE (COM BURETA 150 ML) 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+ESCALPE 21 G 
+
+
+Código: BR0374985 
+
+
+Apresentação: UNIDADE 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+ESCITALOPRAM 10 MG E 20 MG 
+
+
+Códigos: BR0291770 (10mg), BR0291771 (20mg) 
+
+
+Apresentação: COMPRIMIDO 
+
+
+Categoria: Assistência Farmacêutica 
+
+
+ESCOVA ENDOCERVICAL 
+
+
+Código: BR0286038 
+
+
+Apresentação: UNIDADE 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+ESPARADRAPO 10 CM X 4,5 M 
+
+
+Código: BR0278500 
+
+
+Apresentação: UNIDADE 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+ESPÁTULA AYRES 
+
+
+Código: BR0244715 
+
+
+Apresentação: UNIDADE (DESCARTÁVEL) 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+ESPÉCULO VAGINAL (P, M, G) 
+
+
+Códigos: BR0275471 (G), BR0275472 (M), BR0275473 (P) 
+
+
+Apresentação: UNIDADE 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+ESPIRONOLACTONA 25 MG 
+
+
+Código: BR0267653U0042 
+
+
+Apresentação: COMPRIMIDO 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+F
+
+FENITOÍNA 100 MG 
+
+
+Código: BR0267657U0042 
+
+
+Apresentação: COMPRIMIDO 
+
+
+Categoria: Assistência Farmacêutica 
+
+
+FENOBARBITAL 100 MG E 40 MG/ML 
+
+
+Códigos: BR0267660U0042 (Comprimido), BR0300723U0086 (Solução Oral 20ml) 
+
+
+Apresentação: COMPRIMIDO / FRASCO 
+
+
+Categoria: Assistência Farmacêutica 
+
+
+FITA AUTOCLAVE 
+
+
+Código: BR0230812 
+
+
+Apresentação: UNIDADE 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+FIXADOR CITOLÓGICO 
+
+
+Código: BR0373715 
+
+
+Apresentação: FRASCO SPRAY 100 ML 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+FLUCONAZOL 150 MG 
+
+
+Código: BR0267662U0041 
+
+
+Apresentação: CÁPSULA 
+
+
+Categoria: Assistência Farmacêutica Básica / Assistência Farmacêutica 
+
+
+FRASCOS ALMOTOLIA (250 E 500 ML) 
+
+
+
+Códigos: BR0279893 (250ml), BR0279889 (500ml) 
+
+
+
+Apresentação: UNIDADE 
+
+
+
+Categoria: Assistência Farmacêutica 
+
+
+
+FUROSEMIDA 40 MG 
+
+
+Código: BR0267663U0042 
+
+
+Apresentação: COMPRIMIDO 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+G
+
+GEL CONDUTOR 5 KG 
+
+
+Código: BR0275238-5 
+
+
+Apresentação: FRASCO 
+
+
+Categoria: Assistência Farmacêutica 
+
+
+GLIBENCLAMIDA 5 MG 
+
+
+Código: BR0267671U0042 
+
+
+Apresentação: COMPRIMIDO 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+GLICOSE 5% E 50% 
+
+
+Códigos: BR027009200039 (SF 500ml), BR0267541U0004 (Inj 10ml) 
+
+
+Apresentação: UNIDADE / AMPOLA 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+H
+
+HIDRÓXIDO DE ALUMÍNIO (DIVERSOS) 
+
+
+Códigos: BR0433257-1 (Solução 100ml), BR0433257U0062 (Suspensão 100ml), BR0340783U0062 (Suspensão 61,5mg/ml) 
+
+
+Apresentação: FRASCO 
+
+
+Categoria: Assistência Farmacêutica 
+
+I
+
+IBUPROFENO (DIVERSOS) 
+
+
+Códigos: BR0267677U0042 (300mg), BR0294643U0097 (Suspensão 50mg/ml), BR0267676U0042 (600mg), BR0332755U0097 (Suspensão 100mg/ml) 
+
+
+Apresentação: COMPRIMIDO / FRASCO 
+
+
+Categoria: Assistência Farmacêutica / Básica 
+
+
+IODOPOVIDONA (PVPI) 10% 
+
+
+Código: BR0398704 
+
+
+Apresentação: SOLUÇÃO ALCÓOLICA 1L 
+
+
+Categoria: Assistência Farmacêutica 
+
+
+IPRATRÓPIO, BROMETO 0,25 MG/ML 
+
+
+Códigos: BR0268331U0075 (15ml), BR0268331U0086 (20ml) 
+
+
+Apresentação: FRASCO (SOLUÇÃO PARA INALAÇÃO) 
+
+
+Categoria: Assistência Farmacêutica 
+
+L
+
+LÂMINA VIDRO 
+
+
+Código: BR0325098 
+
+
+Apresentação: UNIDADE (BORDA FOSCA) 
+
+
+Categoria: Assistência Farmacêutica 
+
+
+LANCETA AÇO 
+
+
+Código: BR0246812 
+
+
+Apresentação: UNIDADE 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+LENÇOL DESCARTÁVEL 
+
+
+Código: BR0268855 
+
+
+Apresentação: UNIDADE (ROLO 0,50 X 50 M) 
+
+
+Categoria: Assistência Farmacêutica 
+
+
+LEVONORGESTREL + ETINILESTRADIOL 
+
+
+Código: BR0272789U0042 
+
+
+Apresentação: CARTELA 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+LUVAS DE PROCEDIMENTO (M E G) 
+
+
+Códigos: BR0269892 (Grande), BR0269893 (Média) 
+
+
+Apresentação: UNIDADE 
+
+
+Categoria: Assistência Farmacêutica 
+
+M
+
+MÁSCARAS (CIRÚRGICA E USO GERAL) 
+
+
+Códigos: BR0341923 (Cirúrgica 3 camadas), BR0385112 (Uso Geral) 
+
+
+Apresentação: UNIDADE 
+
+
+Categoria: Assistência Farmacêutica 
+
+
+MEBENDAZOL 100 MG E 20 MG/ML 
+
+
+Códigos: BR0267692 (Comprimido), BR0267694 (Suspensão Oral 30ml) 
+
+
+Apresentação: COMPRIMIDO / FRASCO 
+
+
+Categoria: Assistência Farmacêutica / Básica 
+
+
+MEDROXIPROGESTERONA 150 MG/ML 
+
+
+Códigos: BR0292228U0005 (Solução Inj 1ml), BR0398702U0005 (Suspensão Inj 1ml) 
+
+
+Apresentação: AMPOLA 
+
+
+Categoria: Assistência Farmacêutica Básica / Assistência Farmacêutica 
+
+
+METFORMINA 500 MG 
+
+
+
+Código: BR0267690U0042 
+
+
+
+Apresentação: COMPRIMIDO 
+
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+
+METILDOPA 250 MG 
+
+
+
+Código: BR0267689U0042 
+
+
+
+Apresentação: COMPRIMIDO 
+
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+
+METRONIDAZOL (DIVERSOS) 
+
+
+
+Códigos: BR0394856U0062 (Solução 100ml), BR0266863U0067 (Suspensão 120ml), BR0345300 (Creme Vaginal 50g), BR0338591U0030 (Gel 50g), BR0267717U0042 (250mg) 
+
+
+
+Apresentação: FRASCO / BISNAGA / COMPRIMIDO 
+
+
+
+Categoria: Antimicrobianos / Assistência Farmacêutica Básica 
+
+
+
+MICONAZOL 2% CREME 
+
+
+
+Códigos: BR0268286U0031 (Creme 80g), BR0268162U0020 (Creme Vaginal 28g) 
+
+
+
+Apresentação: BISNAGA 
+
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+N
+
+NEOMICINA + BACITRACINA 
+
+
+
+Código: BR0273167-1 
+
+
+
+Apresentação: POMADA 10 G 
+
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+
+NISTATINA 100.000 UI/ML 
+
+
+
+
+Códigos: BR0267378U0097 (Suspensão 30ml), BR0267378U0110 (Suspensão 60ml) 
+
+
+
+
+Apresentação: FRASCO 
+
+
+
+
+Categoria: Assistência Farmacêutica Básica / Assistência Farmacêutica 
+
+
+
+
+NORETISTERONA (DIVERSAS) 
+
+
+
+Códigos: BR0270846U0005 (Enantato + Estradiol Inj), BR0267733U0042 (0,35mg) 
+
+
+
+Apresentação: AMPOLA / CARTELA 
+
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+O
+
+OLANZAPINA 10 MG 
+
+
+
+Código: BR0271621 
+
+
+
+Apresentação: COMPRIMIDO 
+
+
+
+Categoria: Assistência Farmacêutica 
+
+
+
+ÓLEO MINERAL (PETROLATO) 
+
+
+
+Código: BR0233632U0062 
+
+
+
+Apresentação: SOLUÇÃO ORAL 100 ML 
+
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+
+OMEPRAZOL 20 MG 
+
+
+
+Código: BR0267712U0041 
+
+
+
+Apresentação: CÁPSULA 
+
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+P
+
+PAPEL GRAU CIRÚRGICO 
+
+
+
+Código: BR0274396 
+
+
+
+Apresentação: UNIDADE (20 CM X 100 M) 
+
+
+
+Categoria: Assistência Farmacêutica 
+
+
+
+PARACETAMOL (DIVERSAS) 
+
+
+
+
+Códigos: BR0267776-1 (100mg/ml), BR0267777U0063 (200mg/ml), BR0267778U0042 (500mg), BR0267779 (750mg) 
+
+
+
+
+Apresentação: FRASCO / COMPRIMIDO 
+
+
+
+
+Categoria: Assistência Farmacêutica / Básica 
+
+
+
+
+PORTA LÂMINA 
+
+
+
+Código: BR0412639 
+
+
+
+Apresentação: UNIDADE (POLIPROPILENO) 
+
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+
+PREDNISOLONA 1 MG/ML E 3 MG/ML 
+
+
+
+Códigos: BR0268151U0110 (1mg/ml), BR0448595U0110 (3mg/ml) 
+
+
+
+Apresentação: FRASCO 60 ML 
+
+
+
+Categoria: Assistência Farmacêutica / Básica 
+
+
+
+PREDNISONA 20 MG 
+
+
+
+Código: BR0267743U0042 
+
+
+
+Apresentação: COMPRIMIDO 
+
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+
+PROMETAZINA 25 MG 
+
+
+
+Código: BR0267768U0042 
+
+
+
+Apresentação: COMPRIMIDO 
+
+
+
+Categoria: Assistência Farmacêutica 
+
+
+
+PROPRANOLOL 40 MG 
+
+
+
+Código: BR0267772U0042 
+
+
+
+Apresentação: COMPRIMIDO 
+
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+S
+
+SAIS PARA REIDRATAÇÃO ORAL (DIVERSOS) 
+
+
+
+Códigos: BR0268390U0052 (27,9g), BR0293839U0052 (8,5g), BR0259680 (Sache 26g), BR0268390 (Pó 27,9g) 
+
+
+
+Apresentação: ENVELOPE / UNIDADE 
+
+
+
+Categoria: Assistência Farmacêutica Básica / Assistência Farmacêutica 
+
+
+
+SALBUTAMOL 0,4 MG/ML 
+
+
+Códigos: BR0292331-1 (100ml), BR0292331-2 (120ml) 
+
+
+Apresentação: FRASCO (XAROPE) 
+
+
+Categoria: Antimicrobianos 
+
+
+SECNIDAZOL 1.000 MG 
+
+
+Código: BR0268299 
+
+
+Apresentação: COMPRIMIDO 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+SERINGAS (DIVERSAS) 
+
+
+Códigos: BR028504000140 (1ml Insulina), BR0298557 (10ml), BR0292119 (20ml), BR0291012 (3ml), BR0292118 (5ml) 
+
+
+Apresentação: UNIDADE (COM AGULHA) 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+SIMETICONA 75 MG/ML 
+
+
+Códigos: BR041296600063 (10ml), BR0412965-1 (10ml Suspensão) 
+
+
+Apresentação: FRASCO 
+
+
+Categoria: Assistência Farmacêutica / Básica 
+
+
+SINVASTATINA 20 MG E 40 MG 
+
+
+Códigos: BR0267747U0042 (20mg), BR0267745U0042 (40mg) 
+
+
+Apresentação: COMPRIMIDO 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+SONDAS (FOLEY E URETRAL) 
+
+
+Códigos: BR0277019 (Foley 18), BR0277016 (Foley 12), BR0282375 (Uretral 12) 
+
+
+Apresentação: UNIDADE 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+SULFADIAZINA DE PRATA 1% 
+
+
+Códigos: BR0272089-7 (400g), BR0272089U0023 (30g) 
+
+
+Apresentação: POTE / BISNAGA 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+SULFAMETOXAZOL + TRIMETOPRIMA (DIVERSOS) 
+
+
+
+Códigos: BR0308884U0062 (100ml), BR0308884U0067 (120ml), BR0308882U0042 (400+80mg) 
+
+
+
+Apresentação: FRASCO / COMPRIMIDO 
+
+
+
+Categoria: Assistência Farmacêutica Básica / Antimicrobianos 
+
+
+
+SULFATO FERROSO (DIVERSOS) 
+
+
+Códigos: BR0396947 (Xarope 10mg/ml), BR0406799 (Solução 68mg/ml), BR0292345U0097 (Solução 125mg/ml), BR0292344U0042 (40mg Comprimido), BR0332468U0110 (Xarope 25mg/ml) 
+
+
+Apresentação: FRASCO / COMPRIMIDO 
+
+
+Categoria: Alimentação e Nutrição / Assistência Farmacêutica 
+
+T
+
+TERMO HIGRÔMETRO DIGITAL 
+
+
+Código: BR0414674-1 
+
+
+Apresentação: UNIDADE 
+
+
+Categoria: Assistência Farmacêutica Básica 
+
+
+TIRA REAGENTE PARA GLICEMIA 
+
+
+
+Código: BR0339565U0140 
+
+
+
+Apresentação: UNIDADE 
+
+
+
+Categoria: Assistência Farmacêutica 
+
+
+
+TOUCA DESCARTÁVEL 
+
+
+Código: BR0332930 
+
+
+Apresentação: UNIDADE (TNT, TAMANHO ÚNICO) 
+
+
+Categoria: Assistência Farmacêutica Básica

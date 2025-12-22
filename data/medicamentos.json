@@ -1,0 +1,1088 @@
+[
+  {
+    "nome": "ABAIXADOR DE LÍNGUA, MADEIRA, 14 CM",
+    "codigo": "BR0348807",
+    "apresentacao": "UNIDADE",
+    "categoria": "Assistência Farmacêutica"
+  },
+  {
+    "nome": "ÁCIDO ACETILSALICÍLICO 100 MG COMPRIMIDO",
+    "codigo": "BR0267502U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Analgésico e Antitérmico"
+  },
+  {
+    "nome": "ÁCIDO FÓLICO 0,2 MG/ML SOLUÇÃO ORAL 30 ML",
+    "codigo": "BR0278489U0097",
+    "apresentacao": "FRASCO",
+    "categoria": "Suplemento / Vitamina"
+  },
+  {
+    "nome": "ÁCIDO FÓLICO 5 MG COMPRIMIDO",
+    "codigo": "BR0267503U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Suplemento / Vitamina"
+  },
+  {
+    "nome": "ÁCIDO VALPRÓICO (VALPROATO DE SÓDIO) 250 MG CÁPSULA",
+    "codigo": "BR0267504U0041",
+    "apresentacao": "CÁPSULA",
+    "categoria": "Anticonvulsivante / Controlado"
+  },
+  {
+    "nome": "ÁCIDO VALPRÓICO (VALPROATO DE SÓDIO) 50 MG/ML XAROPE 100 ML",
+    "codigo": "BR030873200062",
+    "apresentacao": "FRASCO",
+    "categoria": "Anticonvulsivante / Controlado"
+  },
+  {
+    "nome": "ÁCIDO VALPRÓICO (VALPROATO DE SÓDIO) 500 MG COMPRIMIDO",
+    "codigo": "BR0267505U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Anticonvulsivante / Controlado"
+  },
+  {
+    "nome": "ÁGUA DESTILADA SOLUÇÃO INJETÁVEL 10 ML",
+    "codigo": "BR0276839U0063",
+    "apresentacao": "AMPOLA",
+    "categoria": "Soluções / Antissépticos"
+  },
+  {
+    "nome": "AGULHA HIPODÉRMICA 13 X 0,45",
+    "codigo": "BR0397513",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "AGULHA HIPODÉRMICA 20 X 0,55",
+    "codigo": "BR0397510",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "AGULHA HIPODÉRMICA 25 X 0,7",
+    "codigo": "BR0397505",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "AGULHA HIPODÉRMICA 25 X 0,8",
+    "codigo": "BR0397502",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "AGULHA HIPODÉRMICA 25 X 6",
+    "codigo": "BR0279629",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "ALBENDAZOL 200 MG COMPRIMIDO",
+    "codigo": "BR0269628",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Anti-helmíntico / Antiparasitário"
+  },
+  {
+    "nome": "ALBENDAZOL 40 MG/ML SUSPENSÃO ORAL 10 ML",
+    "codigo": "BR0267507U0063",
+    "apresentacao": "FRASCO",
+    "categoria": "Anti-helmíntico / Antiparasitário"
+  },
+  {
+    "nome": "ALBENDAZOL 400 MG COMPRIMIDO MASTIGÁVEL",
+    "codigo": "BR0267506U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Anti-helmíntico / Antiparasitário"
+  },
+  {
+    "nome": "ÁLCOOL ETÍLICO 70% GEL 500 G",
+    "codigo": "BR026994300171",
+    "apresentacao": "UNIDADE",
+    "categoria": "Soluções / Antissépticos"
+  },
+  {
+    "nome": "ÁLCOOL ETÍLICO 70% GEL 500 ML",
+    "codigo": "BR0269943U0103",
+    "apresentacao": "FRASCO",
+    "categoria": "Soluções / Antissépticos"
+  },
+  {
+    "nome": "ÁLCOOL ETÍLICO 70% SOLUÇÃO 1 L",
+    "codigo": "BR0269941U0060",
+    "apresentacao": "FRASCO",
+    "categoria": "Soluções / Antissépticos"
+  },
+  {
+    "nome": "ALGODÃO HIDRÓFILO 500 G",
+    "codigo": "BR0320817",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "ALPRAZOLAM 1 MG COMPRIMIDO",
+    "codigo": "BR0271356",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Saúde Mental"
+  },
+  {
+    "nome": "ALPRAZOLAM 2 MG COMPRIMIDO",
+    "codigo": "BR0284465",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Saúde Mental"
+  },
+  {
+    "nome": "AMBROXOL, CLORIDRATO 3 MG/ML XAROPE 100 ML",
+    "codigo": "BR0271660-1",
+    "apresentacao": "FRASCO",
+    "categoria": "Antialérgico / Expectorante"
+  },
+  {
+    "nome": "AMITRIPTILINA, CLORIDRATO 25 MG COMPRIMIDO",
+    "codigo": "BR0267512U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Saúde Mental"
+  },
+  {
+    "nome": "AMOXICILINA 50 MG/ML PÓ PARA SUSPENSÃO 60 ML",
+    "codigo": "BR0271111U0110",
+    "apresentacao": "FRASCO",
+    "categoria": "Antibiótico / Antimicrobiano"
+  },
+  {
+    "nome": "AMOXICILINA 500 MG CÁPSULA",
+    "codigo": "BR0271089U0041",
+    "apresentacao": "CÁPSULA",
+    "categoria": "Antibiótico / Antimicrobiano"
+  },
+  {
+    "nome": "AMOXICILINA 500 MG COMPRIMIDO",
+    "codigo": "BR0271089U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Antibiótico / Antimicrobiano"
+  },
+  {
+    "nome": "AMOXICILINA 80 MG/ML PÓ PARA SUSPENSÃO 100 ML",
+    "codigo": "BR0271092",
+    "apresentacao": "FRASCO",
+    "categoria": "Antibiótico / Antimicrobiano"
+  },
+  {
+    "nome": "AMPICILINA 50 MG/ML SUSPENSÃO ORAL 60 ML",
+    "codigo": "BR0267139",
+    "apresentacao": "FRASCO",
+    "categoria": "Antibiótico / Antimicrobiano"
+  },
+  {
+    "nome": "ANLODIPINO, BESILATO 10 MG COMPRIMIDO",
+    "codigo": "BR0268896U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Anti-hipertensivo / Diurético"
+  },
+  {
+    "nome": "ATADURA ALGODÃO 15 CM",
+    "codigo": "BR0207893",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "ATADURA, CREPOM 15 CM",
+    "codigo": "BR0316084",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "ATENOLOL 25 MG COMPRIMIDO",
+    "codigo": "BR0267516",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Anti-hipertensivo / Diurético"
+  },
+  {
+    "nome": "ATENOLOL 50 MG COMPRIMIDO",
+    "codigo": "BR0267517U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Anti-hipertensivo / Diurético"
+  },
+  {
+    "nome": "ATORVASTATINA CÁLCICA 10 MG COMPRIMIDO",
+    "codigo": "BR0268080",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Hipolipemiante"
+  },
+  {
+    "nome": "AVENTAL DESCARTÁVEL 30 G/M2",
+    "codigo": "BR0375041",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "AZITROMICINA 1 G COMPRIMIDO",
+    "codigo": "BR026895U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Antibiótico / Antimicrobiano"
+  },
+  {
+    "nome": "AZITROMICINA 40 MG/ML (1200 MG) PÓ PARA SUSPENSÃO 30 ML",
+    "codigo": "BR031451700155",
+    "apresentacao": "FRASCO",
+    "categoria": "Antibiótico / Antimicrobiano"
+  },
+  {
+    "nome": "AZITROMICINA 40 MG/ML (600 MG) PÓ PARA SUSPENSÃO 15 ML",
+    "codigo": "BR0314517U0108",
+    "apresentacao": "FRASCO",
+    "categoria": "Antibiótico / Antimicrobiano"
+  },
+  {
+    "nome": "AZITROMICINA 500 MG COMPRIMIDO",
+    "codigo": "BR0267140U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Antibiótico / Antimicrobiano"
+  },
+  {
+    "nome": "BENZILPENICILINA BENZATINA 1.200.000 UI PÓ PARA SUSPENSÃO INJETÁVEL",
+    "codigo": "BR0270612U0118",
+    "apresentacao": "FRASCO-AMPOLA",
+    "categoria": "Antibiótico / Antimicrobiano"
+  },
+  {
+    "nome": "BENZILPENICILINA BENZATINA 600.000 UI PÓ PARA SUSPENSÃO INJETÁVEL",
+    "codigo": "BR0270613U0118",
+    "apresentacao": "FRASCO-AMPOLA",
+    "categoria": "Antibiótico / Antimicrobiano"
+  },
+  {
+    "nome": "BIPERIDENO, CLORIDRATO 2 MG COMPRIMIDO",
+    "codigo": "BR027014000042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Assistência Farmacêutica"
+  },
+  {
+    "nome": "BRIMONIDINA, TARTARATO 0,2% SOLUÇÃO OFTÁLMICA 5 ML",
+    "codigo": "BR0268352-1",
+    "apresentacao": "FRASCO",
+    "categoria": "Oftalmológico"
+  },
+  {
+    "nome": "BROMAZEPAM 3 MG COMPRIMIDO",
+    "codigo": "BR0271773",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Saúde Mental"
+  },
+  {
+    "nome": "CARBAMAZEPINA 20 MG/ML SUSPENSÃO ORAL 100 ML",
+    "codigo": "BR0272454U0062",
+    "apresentacao": "FRASCO",
+    "categoria": "Anticonvulsivante / Controlado"
+  },
+  {
+    "nome": "CARBAMAZEPINA 20 MG/ML XAROPE 100 ML",
+    "codigo": "BR0392264",
+    "apresentacao": "FRASCO",
+    "categoria": "Anticonvulsivante / Controlado"
+  },
+  {
+    "nome": "CARBAMAZEPINA 200 MG COMPRIMIDO",
+    "codigo": "BR0267618U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Anticonvulsivante / Controlado"
+  },
+  {
+    "nome": "CARBAMAZEPINA 400 MG COMPRIMIDO",
+    "codigo": "BR0267617U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Anticonvulsivante / Controlado"
+  },
+  {
+    "nome": "CARBONATO DE CÁLCIO 500 MG COMPRIMIDO",
+    "codigo": "BR0270895U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Suplemento / Vitamina"
+  },
+  {
+    "nome": "CEFALEXINA 25 MG/ML SUSPENSÃO ORAL 100 ML",
+    "codigo": "BR0327792-1",
+    "apresentacao": "FRASCO",
+    "categoria": "Antibiótico / Antimicrobiano"
+  },
+  {
+    "nome": "CEFALEXINA 25 MG/ML SUSPENSÃO ORAL 60 ML",
+    "codigo": "BR0327792",
+    "apresentacao": "FRASCO",
+    "categoria": "Antibiótico / Antimicrobiano"
+  },
+  {
+    "nome": "CEFALEXINA 500 MG COMPRIMIDO",
+    "codigo": "BR0267625U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Antibiótico / Antimicrobiano"
+  },
+  {
+    "nome": "CETOCONAZOL 2% CREME 30 G",
+    "codigo": "BR0308736-2",
+    "apresentacao": "BISNAGA (BS.)",
+    "categoria": "Antifúngico"
+  },
+  {
+    "nome": "CETOCONAZOL 200 MG COMPRIMIDO",
+    "codigo": "BR0267151",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Antifúngico"
+  },
+  {
+    "nome": "CIPROFLOXACINO, CLORIDRATO 500 MG COMPRIMIDO",
+    "codigo": "BR0267632U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Antibiótico / Antimicrobiano"
+  },
+  {
+    "nome": "CLONAZEPAM 0,5 MG COMPRIMIDO",
+    "codigo": "BR0270118",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Anticonvulsivante / Controlado"
+  },
+  {
+    "nome": "CLONAZEPAM 2 MG COMPRIMIDO",
+    "codigo": "BR0270119",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Anticonvulsivante / Controlado"
+  },
+  {
+    "nome": "CLONAZEPAM 2,5 MG/ML SOLUÇÃO ORAL 20 ML",
+    "codigo": "BR0270120U0086",
+    "apresentacao": "FRASCO",
+    "categoria": "Anticonvulsivante / Controlado"
+  },
+  {
+    "nome": "CLORETO DE SÓDIO 0,9 % SOLUÇÃO INJETÁVEL 500 ML (SISTEMA FECHADO)",
+    "codigo": "BR0268236U0039",
+    "apresentacao": "FRASCO",
+    "categoria": "Soluções / Antissépticos"
+  },
+  {
+    "nome": "CLORETO DE SÓDIO 0,9% SOLUÇÃO INJETÁVEL 100 ML",
+    "codigo": "BR0448699",
+    "apresentacao": "FRASCO",
+    "categoria": "Soluções / Antissépticos"
+  },
+  {
+    "nome": "CLORETO DE SÓDIO 0,9% SOLUÇÃO INJETÁVEL 100 ML (SISTEMA FECHADO)",
+    "codigo": "BR0268236U0034",
+    "apresentacao": "FRASCO",
+    "categoria": "Soluções / Antissépticos"
+  },
+  {
+    "nome": "COLETOR DE URINA (SISTEMA ABERTO, NÃO ESTÉRIL)",
+    "codigo": "BR0419399",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "COLETOR MATERIAL PERFURO-CORTANTE 20 L",
+    "codigo": "BR0363485",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "COMPRESSA GAZE 7,50 X 7,50 CM (9 FIOS, 8 CAMADAS)",
+    "codigo": "BR0269973",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "DEXAMETASONA 0,1 MG/ML ELIXIR 100 ML",
+    "codigo": "BR0268243U0062",
+    "apresentacao": "FRASCO",
+    "categoria": "Corticosteroide"
+  },
+  {
+    "nome": "DEXAMETASONA 0,1% CREME 10 G",
+    "codigo": "BR0267643U0015",
+    "apresentacao": "BISNAGA (BS.)",
+    "categoria": "Corticosteroide"
+  },
+  {
+    "nome": "DEXAMETASONA 1% CREME 20 G",
+    "codigo": "BR0267643-1",
+    "apresentacao": "BISNAGA (BS.)",
+    "categoria": "Corticosteroide"
+  },
+  {
+    "nome": "DIAZEPAM 10 MG COMPRIMIDO",
+    "codigo": "BR0267197U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Anticonvulsivante / Controlado"
+  },
+  {
+    "nome": "DIAZEPAM 5 MG COMPRIMIDO",
+    "codigo": "BR0267195U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Anticonvulsivante / Controlado"
+  },
+  {
+    "nome": "DIGOXINA 0,25 MG COMPRIMIDO",
+    "codigo": "BR0267647U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Assistência Farmacêutica Básica"
+  },
+  {
+    "nome": "DIPIRONA SÓDICA 500 MG COMPRIMIDO",
+    "codigo": "BR0267203U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Analgésico e Antitérmico"
+  },
+  {
+    "nome": "DIPIRONA SÓDICA 500 MG/ML SOLUÇÃO ORAL 10 ML",
+    "codigo": "BR0267205U0063",
+    "apresentacao": "FRASCO",
+    "categoria": "Analgésico e Antitérmico"
+  },
+  {
+    "nome": "ENALAPRIL, MALEATO 10 MG COMPRIMIDO",
+    "codigo": "BR0267651U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Anti-hipertensivo / Diurético"
+  },
+  {
+    "nome": "ENALAPRIL, MALEATO 20 MG COMPRIMIDO",
+    "codigo": "BR0267652U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Anti-hipertensivo / Diurético"
+  },
+  {
+    "nome": "EQUIPO MACROGOTAS (COM BURETA 150 ML)",
+    "codigo": "BR0442205",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "ESCALPE, 21 G",
+    "codigo": "BR0374985",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "ESCITALOPRAM, OXALATO 10 MG COMPRIMIDO",
+    "codigo": "BR0291770",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Saúde Mental"
+  },
+  {
+    "nome": "ESCITALOPRAM, OXALATO 20 MG COMPRIMIDO",
+    "codigo": "BR0291771",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Saúde Mental"
+  },
+  {
+    "nome": "ESCOVA ENDOCERVICAL",
+    "codigo": "BR0286038",
+    "apresentacao": "UNIDADE",
+    "categoria": "Assistência Farmacêutica Básica"
+  },
+  {
+    "nome": "ESPARADRAPO 10 CM X 4,50 M (IMPERMEÁVEL)",
+    "codigo": "BR0278500",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "ESPÁTULA AYRES (18 CM, DESCARTÁVEL)",
+    "codigo": "BR0244715",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "ESPÉCULO VAGINAL, GRANDE",
+    "codigo": "BR0275471",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "ESPÉCULO VAGINAL, MÉDIO",
+    "codigo": "BR0275472",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "ESPÉCULO VAGINAL, PEQUENO",
+    "codigo": "BR0275473",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "ESPIRONOLACTONA 25 MG COMPRIMIDO",
+    "codigo": "BR0267653U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Anti-hipertensivo / Diurético"
+  },
+  {
+    "nome": "FENITOÍNA SÓDICA 100 MG COMPRIMIDO",
+    "codigo": "BR0267657U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Anticonvulsivante / Controlado"
+  },
+  {
+    "nome": "FENOBARBITAL 100 MG COMPRIMIDO",
+    "codigo": "BR0267660U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Anticonvulsivante / Controlado"
+  },
+  {
+    "nome": "FENOBARBITAL 40 MG/ML SOLUÇÃO ORAL 20 ML",
+    "codigo": "BR0300723U0086",
+    "apresentacao": "FRASCO",
+    "categoria": "Anticonvulsivante / Controlado"
+  },
+  {
+    "nome": "FITA AUTOCLAVE (30 M, 19 MM)",
+    "codigo": "BR0230812",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "FIXADOR CITOLÓGICO (SPRAY 100 ML)",
+    "codigo": "BR0373715",
+    "apresentacao": "FRASCO",
+    "categoria": "Assistência Farmacêutica Básica"
+  },
+  {
+    "nome": "FLUCONAZOL 150 MG CÁPSULA",
+    "codigo": "BR0267662U0041",
+    "apresentacao": "CÁPSULA",
+    "categoria": "Antifúngico"
+  },
+  {
+    "nome": "FRASCO TIPO ALMOTOLIA 250 ML (BICO RETO, TRANSPARENTE)",
+    "codigo": "BR0279893",
+    "apresentacao": "UNIDADE",
+    "categoria": "Assistência Farmacêutica"
+  },
+  {
+    "nome": "FRASCO TIPO ALMOTOLIA 500 ML (BICO RETO, AMBAR)",
+    "codigo": "BR0279889",
+    "apresentacao": "UNIDADE",
+    "categoria": "Assistência Farmacêutica"
+  },
+  {
+    "nome": "FUROSEMIDA 40 MG COMPRIMIDO",
+    "codigo": "BR0267663U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Anti-hipertensivo / Diurético"
+  },
+  {
+    "nome": "GEL CONDUTOR PARA ULTRASSONOGRAFIA 5 KG",
+    "codigo": "BR0275238-5",
+    "apresentacao": "FRASCO",
+    "categoria": "Soluções / Antissépticos"
+  },
+  {
+    "nome": "GLIBENCLAMIDA 5 MG COMPRIMIDO",
+    "codigo": "BR0267671U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Antidiabético"
+  },
+  {
+    "nome": "GLICOSE 5% SOLUÇÃO INJETÁVEL 500 ML (SISTEMA FECHADO)",
+    "codigo": "BR027009200039",
+    "apresentacao": "UNIDADE",
+    "categoria": "Soluções / Antissépticos"
+  },
+  {
+    "nome": "GLICOSE 50% SOLUÇÃO INJETÁVEL 10 ML",
+    "codigo": "BR0267541U0004",
+    "apresentacao": "AMPOLA",
+    "categoria": "Soluções / Antissépticos"
+  },
+  {
+    "nome": "HIDRÓXIDO DE ALUMÍNIO 60 MG/ML SOLUÇÃO ORAL 100 ML",
+    "codigo": "BR0433257-1",
+    "apresentacao": "FRASCO",
+    "categoria": "Antiácido / Protetor Gástrico"
+  },
+  {
+    "nome": "HIDRÓXIDO DE ALUMÍNIO 60 MG/ML SUSPENSÃO ORAL 100 ML",
+    "codigo": "BR0433257U0062",
+    "apresentacao": "FRASCO",
+    "categoria": "Antiácido / Protetor Gástrico"
+  },
+  {
+    "nome": "HIDRÓXIDO DE ALUMÍNIO 61,5 MG/ML SUSPENSÃO ORAL 100 ML",
+    "codigo": "BR0340783U0062",
+    "apresentacao": "FRASCO",
+    "categoria": "Antiácido / Protetor Gástrico"
+  },
+  {
+    "nome": "IBUPROFENO 100 MG/ML SUSPENSÃO ORAL 30 ML",
+    "codigo": "BR0332755U0097",
+    "apresentacao": "FRASCO",
+    "categoria": "Anti-inflamatório"
+  },
+  {
+    "nome": "IBUPROFENO 300 MG COMPRIMIDO",
+    "codigo": "BR0267677U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Anti-inflamatório"
+  },
+  {
+    "nome": "IBUPROFENO 50 MG/ML SUSPENSÃO ORAL 30 ML",
+    "codigo": "BR0294643U0097",
+    "apresentacao": "FRASCO",
+    "categoria": "Anti-inflamatório"
+  },
+  {
+    "nome": "IBUPROFENO 600 MG COMPRIMIDO",
+    "codigo": "BR0267676U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Anti-inflamatório"
+  },
+  {
+    "nome": "IODOPOVIDONA (PVPI) 10% SOLUÇÃO ALCÓOLICA 1 L",
+    "codigo": "BR0398704",
+    "apresentacao": "FRASCO",
+    "categoria": "Soluções / Antissépticos"
+  },
+  {
+    "nome": "IPRATRÓPIO, BROMETO 0,25 MG/ML SOLUÇÃO PARA INALAÇÃO 15 ML",
+    "codigo": "BR0268331U0075",
+    "apresentacao": "FRASCO",
+    "categoria": "Broncodilatador"
+  },
+  {
+    "nome": "IPRATRÓPIO, BROMETO 0,25 MG/ML SOLUÇÃO PARA INALAÇÃO 20 ML",
+    "codigo": "BR0268331U0086",
+    "apresentacao": "FRASCO",
+    "categoria": "Broncodilatador"
+  },
+  {
+    "nome": "LÂMINA VIDRO (BORDA FOSCA, 76,2 X 25,4 MM)",
+    "codigo": "BR0325098",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "LANCETA AÇO (TESTE SANGUÍNEO)",
+    "codigo": "BR0246812",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "LENÇOL DESCARTÁVEL (PAPEL, ROLO 0,50 X 50 M)",
+    "codigo": "BR0268855",
+    "apresentacao": "UNIDADE",
+    "categoria": "Assistência Farmacêutica"
+  },
+  {
+    "nome": "LEVONORGESTREL + ETINILESTRADIOL 0,15 + 0,03 MG COMPRIMIDO",
+    "codigo": "BR0272789U0042",
+    "apresentacao": "CARTELA",
+    "categoria": "Hormonal / Contraceptivo"
+  },
+  {
+    "nome": "LUVA PARA PROCEDIMENTO NÃO CIRÚRGICO, GRANDE",
+    "codigo": "BR0269892",
+    "apresentacao": "UNIDADE",
+    "categoria": "Assistência Farmacêutica"
+  },
+  {
+    "nome": "LUVA PARA PROCEDIMENTO NÃO CIRÚRGICO, MÉDIA",
+    "codigo": "BR0269893",
+    "apresentacao": "UNIDADE",
+    "categoria": "Assistência Farmacêutica"
+  },
+  {
+    "nome": "MÁSCARA CIRÚRGICA (3 CAMADAS)",
+    "codigo": "BR0341923",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "MÁSCARA DESCARTÁVEL USO GERAL",
+    "codigo": "BR0385112",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "MEBENDAZOL 100 MG COMPRIMIDO",
+    "codigo": "BR0267692",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Anti-helmíntico / Antiparasitário"
+  },
+  {
+    "nome": "MEBENDAZOL 20 MG/ML SUSPENSÃO ORAL 30 ML",
+    "codigo": "BR0267694",
+    "apresentacao": "FRASCO",
+    "categoria": "Anti-helmíntico / Antiparasitário"
+  },
+  {
+    "nome": "MEDROXIPROGESTERONA, ACETATO 150 MG/ML SOLUÇÃO INJETÁVEL 1 ML",
+    "codigo": "BR0292228U0005",
+    "apresentacao": "AMPOLA",
+    "categoria": "Hormonal / Contraceptivo"
+  },
+  {
+    "nome": "MEDROXIPROGESTERONA, ACETATO 150 MG/ML SUSPENSÃO INJETÁVEL 1 ML",
+    "codigo": "BR0398702U0005",
+    "apresentacao": "AMPOLA",
+    "categoria": "Hormonal / Contraceptivo"
+  },
+  {
+    "nome": "METFORMINA, CLORIDRATO 500 MG COMPRIMIDO",
+    "codigo": "BR0267690U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Antidiabético"
+  },
+  {
+    "nome": "METILDOPA 250 MG COMPRIMIDO",
+    "codigo": "BR0267689U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Anti-hipertensivo / Diurético"
+  },
+  {
+    "nome": "METRONIDAZOL (BENZOILMETRONIDAZOL) 40 MG/ML SUSPENSÃO ORAL 100 ML",
+    "codigo": "BR0394856U0062",
+    "apresentacao": "FRASCO",
+    "categoria": "Anti-helmíntico / Antiparasitário"
+  },
+  {
+    "nome": "METRONIDAZOL (BENZOILMETRONIDAZOL) 40 MG/ML SUSPENSÃO ORAL 120 ML",
+    "codigo": "BR0266863U0067",
+    "apresentacao": "FRASCO",
+    "categoria": "Anti-helmíntico / Antiparasitário"
+  },
+  {
+    "nome": "METRONIDAZOL 100 MG/G CREME VAGINAL 50 G",
+    "codigo": "BR0345300",
+    "apresentacao": "BISNAGA (BS.)",
+    "categoria": "Anti-helmíntico / Antiparasitário"
+  },
+  {
+    "nome": "METRONIDAZOL 100 MG/G GEL 50 G",
+    "codigo": "BR0338591U0030",
+    "apresentacao": "BISNAGA (BS.)",
+    "categoria": "Anti-helmíntico / Antiparasitário"
+  },
+  {
+    "nome": "METRONIDAZOL 250 MG COMPRIMIDO",
+    "codigo": "BR0267717U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Anti-helmíntico / Antiparasitário"
+  },
+  {
+    "nome": "MICONAZOL, NITRATO 2% CREME 80 G",
+    "codigo": "BR0268286U0031",
+    "apresentacao": "BISNAGA (BS.)",
+    "categoria": "Antifúngico"
+  },
+  {
+    "nome": "MICONAZOL, NITRATO 2% CREME VAGINAL 28 G",
+    "codigo": "BR0268162U0020",
+    "apresentacao": "BISNAGA (BS.)",
+    "categoria": "Antifúngico"
+  },
+  {
+    "nome": "NEOMICINA + BACITRACINA POMADA 10 G",
+    "codigo": "BR0273167-1",
+    "apresentacao": "BISNAGA (BS.)",
+    "categoria": "Antibiótico / Antimicrobiano"
+  },
+  {
+    "nome": "NISTATINA 100.000 UI/ML SUSPENSÃO ORAL 30 ML",
+    "codigo": "BR0267378U0097",
+    "apresentacao": "FRASCO",
+    "categoria": "Antifúngico"
+  },
+  {
+    "nome": "NISTATINA 100.000 UI/ML SUSPENSÃO ORAL 60 ML",
+    "codigo": "BR0267378U0110",
+    "apresentacao": "FRASCO",
+    "categoria": "Antifúngico"
+  },
+  {
+    "nome": "NORETISTERONA 0,35 MG COMPRIMIDO",
+    "codigo": "BR0267733U0042",
+    "apresentacao": "CARTELA",
+    "categoria": "Hormonal / Contraceptivo"
+  },
+  {
+    "nome": "NORETISTERONA, ENANTATO + ESTRADIOL, VALERATO 50 + 5 MG/ML INJETÁVEL 1 ML",
+    "codigo": "BR0270846U0005",
+    "apresentacao": "AMPOLA",
+    "categoria": "Hormonal / Contraceptivo"
+  },
+  {
+    "nome": "OLANZAPINA 10 MG COMPRIMIDO",
+    "codigo": "BR0271621",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Assistência Farmacêutica"
+  },
+  {
+    "nome": "ÓLEO MINERAL (PETROLATO) SOLUÇÃO ORAL 100 ML",
+    "codigo": "BR0233632U0062",
+    "apresentacao": "FRASCO",
+    "categoria": "Soluções / Antissépticos"
+  },
+  {
+    "nome": "OMEPRAZOL 20 MG CÁPSULA",
+    "codigo": "BR0267712U0041",
+    "apresentacao": "CÁPSULA (CPS.)",
+    "categoria": "Antiácido / Protetor Gástrico"
+  },
+  {
+    "nome": "PAPEL GRAU CIRÚRGICO (20 CM X 100 M)",
+    "codigo": "BR0274396",
+    "apresentacao": "UNIDADE",
+    "categoria": "Assistência Farmacêutica"
+  },
+  {
+    "nome": "PARACETAMOL 100 MG/ML SOLUÇÃO ORAL 10 ML",
+    "codigo": "BR0267776-1",
+    "apresentacao": "FRASCO",
+    "categoria": "Analgésico e Antitérmico"
+  },
+  {
+    "nome": "PARACETAMOL 200 MG/ML SOLUÇÃO ORAL 10 ML",
+    "codigo": "BR0267777U0063",
+    "apresentacao": "FRASCO",
+    "categoria": "Analgésico e Antitérmico"
+  },
+  {
+    "nome": "PARACETAMOL 500 MG COMPRIMIDO",
+    "codigo": "BR0267778U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Analgésico e Antitérmico"
+  },
+  {
+    "nome": "PARACETAMOL 750 MG COMPRIMIDO",
+    "codigo": "BR0267779",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Analgésico e Antitérmico"
+  },
+  {
+    "nome": "PORTA LÂMINA (POLIPROPILENO, ATÉ 3 LÂMINAS)",
+    "codigo": "BR0412639",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "PREDNISOLONA 1 MG/ML SOLUÇÃO ORAL 60 ML",
+    "codigo": "BR0268151U0110",
+    "apresentacao": "FRASCO (FR)",
+    "categoria": "Corticosteroide"
+  },
+  {
+    "nome": "PREDNISOLONA 3 MG/ML SOLUÇÃO ORAL 60 ML",
+    "codigo": "BR0448595U0110",
+    "apresentacao": "FRASCO (FR)",
+    "categoria": "Corticosteroide"
+  },
+  {
+    "nome": "PREDNISONA 20 MG COMPRIMIDO",
+    "codigo": "BR0267743U0042",
+    "apresentacao": "COMPRIMIDO (COMP)",
+    "categoria": "Corticosteroide"
+  },
+  {
+    "nome": "PROMETAZINA, CLORIDRATO 25 MG COMPRIMIDO",
+    "codigo": "BR0267768U0042",
+    "apresentacao": "COMPRIMIDO (COMP)",
+    "categoria": "Antialérgico / Expectorante"
+  },
+  {
+    "nome": "PROPRANOLOL, CLORIDRATO 40 MG COMPRIMIDO",
+    "codigo": "BR0267772U0042",
+    "apresentacao": "COMPRIMIDO (COMP)",
+    "categoria": "Anti-hipertensivo / Diurético"
+  },
+  {
+    "nome": "SAIS PARA REIDRATAÇÃO ORAL (27,9 G PÓ)",
+    "codigo": "BR0268390U0052",
+    "apresentacao": "ENVELOPE (ENV.)",
+    "categoria": "Assistência Farmacêutica Básica"
+  },
+  {
+    "nome": "SAIS PARA REIDRATAÇÃO ORAL (8,5 G PÓ)",
+    "codigo": "BR0293839U0052",
+    "apresentacao": "ENVELOPE (ENV.)",
+    "categoria": "Assistência Farmacêutica"
+  },
+  {
+    "nome": "SAIS PARA REIDRATAÇÃO ORAL (PÓ CONTENDO 27,9 G)",
+    "codigo": "BR0268390",
+    "apresentacao": "UNIDADE",
+    "categoria": "Assistência Farmacêutica Básica"
+  },
+  {
+    "nome": "SAIS PARA REIDRATAÇÃO ORAL (SACHÊ 26 G)",
+    "codigo": "BR0259680",
+    "apresentacao": "UNIDADE",
+    "categoria": "Assistência Farmacêutica Básica"
+  },
+  {
+    "nome": "SALBUTAMOL, SULFATO 0,4 MG/ML XAROPE 100 ML",
+    "codigo": "BR0292331-1",
+    "apresentacao": "FRASCO",
+    "categoria": "Broncodilatador"
+  },
+  {
+    "nome": "SALBUTAMOL, SULFATO 0,4 MG/ML XAROPE 120 ML",
+    "codigo": "BR0292331-2",
+    "apresentacao": "FRASCO",
+    "categoria": "Broncodilatador"
+  },
+  {
+    "nome": "SECNIDAZOL 1.000 MG COMPRIMIDO",
+    "codigo": "BR0268299",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Anti-helmíntico / Antiparasitário"
+  },
+  {
+    "nome": "SERINGA 10 ML (+ AGULHA 25 MM X 7 MM)",
+    "codigo": "BR0298557",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "SERINGA 20 ML (+ AGULHA 25 MM X 7 MM)",
+    "codigo": "BR0292119",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "SERINGA 3 ML (+ AGULHA 25 MM X 7 MM)",
+    "codigo": "BR0291012",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "SERINGA 5 ML (+ AGULHA 25 X 7 MM)",
+    "codigo": "BR0292118",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "SERINGA PARA INSULINA 1 ML (COM AGULHA 13 X 3,8)",
+    "codigo": "BR028504000140",
+    "apresentacao": "UNIDADE",
+    "categoria": "Antidiabético"
+  },
+  {
+    "nome": "SIMETICONA 75 MG/ML EMULSÃO ORAL 10 ML",
+    "codigo": "BR041296600063",
+    "apresentacao": "FRASCO",
+    "categoria": "Assistência Farmacêutica / Assistência Farmacêutica Básica"
+  },
+  {
+    "nome": "SIMETICONA 75 MG/ML SUSPENSÃO ORAL 10 ML",
+    "codigo": "BR0412965-1",
+    "apresentacao": "FRASCO",
+    "categoria": "Assistência Farmacêutica Básica"
+  },
+  {
+    "nome": "SINVASTATINA 20 MG COMPRIMIDO",
+    "codigo": "BR0267747U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Hipolipemiante"
+  },
+  {
+    "nome": "SINVASTATINA 40 MG COMPRIMIDO",
+    "codigo": "BR0267745U0042",
+    "apresentacao": "COMPRIMIDO",
+    "categoria": "Hipolipemiante"
+  },
+  {
+    "nome": "SONDA FOLEY Nº 12 (2 VIAS, BALÃO 30 ML)",
+    "codigo": "BR0277016",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "SONDA FOLEY Nº 18 (2 VIAS, BALÃO 30 ML)",
+    "codigo": "BR0277019",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "SONDA URETRAL Nº 12 (SILICONE, ESTÉRIL)",
+    "codigo": "BR0282375",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "SULFADIAZINA DE PRATA 1% CREME 30 G",
+    "codigo": "BR0272089U0023",
+    "apresentacao": "BISNAGA (BS.)",
+    "categoria": "Assistência Farmacêutica Básica"
+  },
+  {
+    "nome": "SULFADIAZINA DE PRATA 1% CREME 400 G",
+    "codigo": "BR0272089-7",
+    "apresentacao": "POTE (PTE.)",
+    "categoria": "Assistência Farmacêutica Básica"
+  },
+  {
+    "nome": "SULFAMETOXAZOL + TRIMETOPRIMA 40 + 8 MG/ML SUSPENSÃO ORAL 100 ML",
+    "codigo": "BR0308884U0062",
+    "apresentacao": "FRASCO",
+    "categoria": "Antibiótico / Antimicrobiano"
+  },
+  {
+    "nome": "SULFAMETOXAZOL + TRIMETOPRIMA 40 MG/ML + 8 MG/ML SUSPENSÃO ORAL 120 ML",
+    "codigo": "BR0308884U0067",
+    "apresentacao": "FRASCO",
+    "categoria": "Antibiótico / Antimicrobiano"
+  },
+  {
+    "nome": "SULFAMETOXAZOL + TRIMETOPRIMA 400 + 80 MG COMPRIMIDO",
+    "codigo": "BR0308882U0042",
+    "apresentacao": "COMPRIMIDO (COMP.)",
+    "categoria": "Antibiótico / Antimicrobiano"
+  },
+  {
+    "nome": "SULFATO FERROSO (40 MG FERRO ELEMENTAR) COMPRIMIDO",
+    "codigo": "BR0292344U0042",
+    "apresentacao": "COMPRIMIDO (COMP.)",
+    "categoria": "Suplemento / Vitamina"
+  },
+  {
+    "nome": "SULFATO FERROSO 10 MG/ML XAROPE 100 ML",
+    "codigo": "BR0396947",
+    "apresentacao": "FRASCO",
+    "categoria": "Suplemento / Vitamina"
+  },
+  {
+    "nome": "SULFATO FERROSO 125 MG/ML SOLUÇÃO ORAL 30 ML",
+    "codigo": "BR0292345U0097",
+    "apresentacao": "FRASCO",
+    "categoria": "Suplemento / Vitamina"
+  },
+  {
+    "nome": "SULFATO FERROSO 25 MG/ML XAROPE 60 ML",
+    "codigo": "BR0332468U0110",
+    "apresentacao": "FRASCO",
+    "categoria": "Suplemento / Vitamina"
+  },
+  {
+    "nome": "SULFATO FERROSO 68 MG/ML SOLUÇÃO ORAL 30 ML",
+    "codigo": "BR0406799",
+    "apresentacao": "FRASCO",
+    "categoria": "Suplemento / Vitamina"
+  },
+  {
+    "nome": "TERMO HIGRÔMETRO DIGITAL",
+    "codigo": "BR0414674-1",
+    "apresentacao": "UNIDADE",
+    "categoria": "Assistência Farmacêutica Básica"
+  },
+  {
+    "nome": "TIRA REAGENTE PARA MEDIR GLICEMIA CAPILAR",
+    "codigo": "BR0339565U0140",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  },
+  {
+    "nome": "TOUCA DESCARTÁVEL (TAMANHO ÚNICO)",
+    "codigo": "BR0332930",
+    "apresentacao": "UNIDADE",
+    "categoria": "Material Médico / Hospitalar"
+  }
+]
