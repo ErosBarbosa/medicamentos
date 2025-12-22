@@ -1,36 +1,34 @@
-Gestão e Busca Ágil para UBS
-Otimizando a dispensação de medicamentos e reduzindo erros operacionais na saúde pública.
+📑 Hórus Medicamentos - Facilitador de Busca
+O Hórus Medicamentos é uma ferramenta desenvolvida para otimizar o fluxo de trabalho de profissionais de saúde e gestores de farmácia que utilizam o sistema Hórus SUS. O objetivo principal é centralizar a consulta de códigos e apresentações de medicamentos, reduzindo erros de digitação e agilizando a conferência no Almoxarifado.
 
-📌 Sobre o Projeto
-O Hórus Facilitador é uma ferramenta auxiliar desenvolvida para otimizar o fluxo de trabalho dos profissionais de saúde nas Unidades Básicas de Saúde (UBS).
+🚀 O Problema
+No dia a dia do sistema Hórus SUS, a busca por códigos específicos de dispensação pode ser lenta ou induzir ao erro devido à vasta lista de itens e nomenclaturas similares. Isso gera gargalos no atendimento e inconsistências no estoque (Almoxarifado).
 
-O sistema oficial (Hórus SUS) é robusto, porém, a busca por códigos específicos de medicamentos e materiais pode ser lenta e sujeita a erros de digitação. Este projeto atua como um catálogo inteligente e ultrarrápido, permitindo que o atendente localize o item e copie o código necessário com apenas um clique.
+✨ A Solução
+Esta aplicação web oferece uma interface intuitiva onde o usuário pode:
 
-🔥 Problemas que resolvemos
-❌ Lentidão na busca: Acaba com a necessidade de consultar tabelas impressas ou PDFs extensos.
+Busca Instantânea: Localizar medicamentos por nome ou princípio ativo.
 
-❌ Erros de Digitação: O botão "Copiar Código" elimina a chance de digitar um ID errado no sistema de dispensação.
+Filtro por Categorias: Filtrar rapidamente entre Antibióticos, Anti-hipertensivos, Material Médico, etc.
 
-❌ Dificuldade de Acesso: Funciona perfeitamente no computador do consultório ou no celular do almoxarifado (PWA).
+Cópia de Código com Um Clique: Botão "Copiar Código" que envia o ID do medicamento direto para a área de transferência, eliminando erros de transcrição manual.
 
-❌ Falta de Padronização: Organiza os itens por categorias claras e visuais.
-
-✨ Funcionalidades Principais
-🔍 Busca Instantânea: Filtro em tempo real por nome ou princípio ativo.
-
-🏷️ Categorização Inteligente: Filtros rápidos para Antibióticos, Antidiabéticos, Saúde Mental, Material Médico, etc.
-
-📋 One-Click Copy: Botão otimizado para copiar o código do medicamento para a área de transferência.
-
-📱 Design Responsivo: Interface moderna (Dark Mode) adaptada para qualquer tamanho de tela.
-
-⚡ Alta Performance: Carregamento instantâneo dos dados para não travar o atendimento.
+Visualização de Estoque: Painel rápido com o total de itens cadastrados.
 
 🛠️ Tecnologias Utilizadas
-O projeto preza pela simplicidade e eficiência técnica:
+Frontend: HTML5, CSS3 (Layout responsivo com foco em UX).
 
-Frontend: HTML5, CSS3 (Variáveis CSS, Flexbox/Grid) e JavaScript Vanilla.
+Interatividade: JavaScript Vanilla para filtros dinâmicos e manipulação do DOM.
 
-UX/UI: Focado em acessibilidade e rapidez visual.
+Ícones: Font Awesome / Google Material Icons.
 
-Arquitetura: Estrutura baseada em componentes de cartões (Cards) para facilitar a manutenção.
+📸 Demonstração
+(Dica: Adicione um GIF aqui mostrando você filtrando e copiando um código)
+
+📦 Como executar o projeto
+Clone o repositório:
+
+Bash
+
+git clone https://github.com/seu-usuario/horus-medicamentos.git
+Abra o arquivo index.html no seu navegador ou utilize a extensão Live Server no VS Code.
