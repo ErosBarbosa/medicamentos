@@ -1466,7 +1466,7 @@ function buildCard(medicamento) {
             <div class="med-actions">
                 <button type="button" class="btn-bula" data-bula="${escapeHtml(medicamento.codigo)}">
                     <span class="btn-icon" aria-hidden="true">📄</span>
-                    <span class="btn-label">Ver bula completa</span>
+                    <span class="btn-label">Ver bula</span>
                 </button>
                 <button type="button" class="btn-copy" data-code="${escapeHtml(medicamento.codigo)}">
                     <span class="btn-icon btn-icon-copy" aria-hidden="true">
