@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Medicamentos Hórus SESAM">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#082f49"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#fb923c"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1040" cy="80" r="170" fill="#22d3ee" opacity="0.12"/>
+  <circle cx="170" cy="560" r="210" fill="#f97316" opacity="0.14"/>
+
+  <rect x="72" y="78" width="84" height="84" rx="20" fill="url(#accent)"/>
+  <g transform="translate(94 98)" fill="none" stroke="#fff" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="5" y="1" width="24" height="8" rx="2"/>
+    <rect x="3" y="9" width="28" height="23" rx="6"/>
+    <line x1="17" y1="14" x2="17" y2="27"/>
+    <line x1="11" y1="20.5" x2="23" y2="20.5"/>
+  </g>
+
+  <text x="186" y="122" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">
+    Medicamentos Hórus | SESAM
+  </text>
+  <text x="186" y="172" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="500">
+    Secretaria Municipal de Saúde de Oeiras-PI
+  </text>
+
+  <rect x="72" y="232" width="1056" height="300" rx="28" fill="#0b3042" opacity="0.95" stroke="#22d3ee" stroke-opacity="0.35"/>
+  <text x="118" y="315" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700">
+    Catálogo inteligente de medicamentos
+  </text>
+  <text x="118" y="370" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="500">
+    Busca por nome, código e categoria
+  </text>
+  <text x="118" y="434" fill="#a5f3fc" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="500">
+    Consulta rápida e organizada para as unidades da SESAM.
+  </text>
+
+  <rect x="72" y="558" width="1056" height="8" rx="4" fill="url(#accent)" opacity="0.95"/>
+</svg>
