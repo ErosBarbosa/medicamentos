@@ -1274,14 +1274,21 @@ const BULAS_COMPLETAS = {
     },
 };
 
+const PAGE_SIZE = 12;
+const SEARCH_DEBOUNCE_MS = 180;
+
 const state = {
     search: '',
     category: '',
     sort: 'relevancia',
+    page: 1,
+    pageSize: PAGE_SIZE,
 };
 
 let toastTimer = null;
 let lastFocusedBeforeModal = null;
+let searchDebounceTimer = null;
+let medicamentosIndex = [];
 
 const byId = (id) => document.getElementById(id);
 
@@ -1373,16 +1380,8 @@ function populateCategoryFilter() {
     select.insertAdjacentHTML('beforeend', options);
 }
 
-function filterMedicamentos() {
-    const normalizedSearch = normalizeText(state.search);
-    const normalizedCategory = normalizeText(state.category);
-
-    const filtered = MEDICAMENTOS.filter((medicamento) => {
-        const categoryMatch = !normalizedCategory || normalizeText(medicamento.categoria) === normalizedCategory;
-
-        if (!categoryMatch) return false;
-        if (!normalizedSearch) return true;
-
+function buildMedicamentosIndex() {
+    medicamentosIndex = MEDICAMENTOS.map((medicamento) => {
         const searchableContent = normalizeText([
             getNomeExato(medicamento),
             medicamento.nome,
@@ -1393,14 +1392,47 @@ function filterMedicamentos() {
             getBulaSearchText(medicamento),
         ].join(' '));
 
-        return searchableContent.includes(normalizedSearch);
+        return {
+            medicamento,
+            normalizedCategory: normalizeText(medicamento.categoria),
+            normalizedName: getNomeFiltravel(medicamento),
+            searchableContent,
+        };
+    });
+}
+
+function filterMedicamentos() {
+    const normalizedSearch = normalizeText(state.search);
+    const normalizedCategory = normalizeText(state.category);
+    const source = medicamentosIndex.length ? medicamentosIndex : MEDICAMENTOS.map((medicamento) => ({
+        medicamento,
+        normalizedCategory: normalizeText(medicamento.categoria),
+        normalizedName: getNomeFiltravel(medicamento),
+        searchableContent: normalizeText([
+            getNomeExato(medicamento),
+            medicamento.nome,
+            medicamento.codigo,
+            medicamento.categoria,
+            medicamento.apresentacao,
+            getResumoUso(medicamento.codigo, medicamento.categoria),
+            getBulaSearchText(medicamento),
+        ].join(' ')),
+    }));
+
+    const filteredEntries = source.filter((entry) => {
+        const categoryMatch = !normalizedCategory || entry.normalizedCategory === normalizedCategory;
+        if (!categoryMatch) return false;
+        if (!normalizedSearch) return true;
+        return entry.searchableContent.includes(normalizedSearch);
     });
 
-    if (!normalizedSearch) return filtered;
+    if (!normalizedSearch) {
+        return filteredEntries.map((entry) => entry.medicamento);
+    }
 
-    return filtered.sort((a, b) => {
-        const aNome = getNomeFiltravel(a);
-        const bNome = getNomeFiltravel(b);
+    const sortedEntries = filteredEntries.sort((a, b) => {
+        const aNome = a.normalizedName;
+        const bNome = b.normalizedName;
 
         const score = (nome) => {
             if (nome === normalizedSearch) return 300;
@@ -1412,6 +1444,8 @@ function filterMedicamentos() {
 
         return score(bNome) - score(aNome);
     });
+
+    return sortedEntries.map((entry) => entry.medicamento);
 }
 
 function sortMedicamentos(items) {
@@ -1466,7 +1500,7 @@ function buildCard(medicamento) {
             <div class="med-actions">
                 <button type="button" class="btn-bula" data-bula="${escapeHtml(medicamento.codigo)}">
                     <span class="btn-icon" aria-hidden="true">📄</span>
-                    <span class="btn-label">Ver bula</span>
+                    <span class="btn-label">Ver bula completa</span>
                 </button>
                 <button type="button" class="btn-copy" data-code="${escapeHtml(medicamento.codigo)}">
                     <span class="btn-icon btn-icon-copy" aria-hidden="true">
@@ -1572,14 +1606,97 @@ function renderMedicamentos(items) {
     container.innerHTML = items.map(buildCard).join('');
 }
 
-function updateStats(filteredItems) {
-    byId('totalMedicamentos').textContent = String(MEDICAMENTOS.length);
-    byId('categoriaAtual').textContent = state.category || 'Todas';
-    byId('resultadosExibidos').textContent = String(filteredItems.length);
+function paginateItems(items) {
+    const totalPages = Math.max(1, Math.ceil(items.length / state.pageSize));
+    const normalizedPage = Math.min(Math.max(state.page, 1), totalPages);
+    state.page = normalizedPage;
 
-    const summary = filteredItems.length === MEDICAMENTOS.length
-        ? `Exibindo todos os ${MEDICAMENTOS.length} medicamentos.`
-        : `Exibindo ${filteredItems.length} de ${MEDICAMENTOS.length} medicamentos.`;
+    const startIndex = (normalizedPage - 1) * state.pageSize;
+    const endIndex = startIndex + state.pageSize;
+
+    return {
+        currentPage: normalizedPage,
+        totalPages,
+        pageItems: items.slice(startIndex, endIndex),
+    };
+}
+
+function updatePaginationControls(totalItems, currentPage, totalPages) {
+    const controls = byId('paginationControls');
+    const info = byId('paginationInfo');
+    const prevButton = byId('prevPageBtn');
+    const nextButton = byId('nextPageBtn');
+
+    if (!controls || !info || !prevButton || !nextButton) return;
+
+    const shouldShowPagination = totalItems > state.pageSize;
+    controls.classList.toggle('hidden', !shouldShowPagination);
+
+    if (!shouldShowPagination) return;
+
+    info.textContent = `Página ${currentPage} de ${totalPages}`;
+    prevButton.disabled = currentPage <= 1;
+    nextButton.disabled = currentPage >= totalPages;
+}
+
+function getCurrentCategoryLabel(filteredItems) {
+    if (state.category) return state.category;
+
+    const hasSearch = Boolean(normalizeText(state.search));
+    if (!hasSearch) return 'Todas';
+
+    const categoriesFound = [...new Set(filteredItems.map((item) => item.categoria))];
+    if (!categoriesFound.length) return 'Nenhuma';
+    if (categoriesFound.length === 1) return categoriesFound[0];
+    return `${categoriesFound.length} categorias`;
+}
+
+function updateSearchModeLayout() {
+    const hasSearch = Boolean(normalizeText(state.search));
+
+    const totalValue = byId('totalMedicamentos');
+    if (totalValue) {
+        const totalCard = totalValue.closest('.stat-card');
+        if (totalCard) totalCard.classList.toggle('hidden', hasSearch);
+    }
+
+    const categoryFilter = byId('categoryFilter');
+    if (categoryFilter) {
+        const categoryField = categoryFilter.closest('.select-field');
+        if (categoryField) categoryField.classList.toggle('hidden', hasSearch);
+    }
+
+    const sortFilter = byId('sortFilter');
+    if (sortFilter) {
+        const sortField = sortFilter.closest('.select-field');
+        if (sortField) sortField.classList.toggle('hidden', hasSearch);
+    }
+
+    const clearButton = byId('clearSearch');
+    if (clearButton) clearButton.classList.toggle('hidden', hasSearch);
+
+    const statsGrid = document.querySelector('.stats-grid');
+    if (statsGrid) {
+        statsGrid.classList.toggle('stats-grid-searching', hasSearch);
+        statsGrid.style.gridTemplateColumns = hasSearch ? '1fr' : '';
+    }
+}
+
+function updateStats(filteredItems, currentPageItems, currentPage, totalPages) {
+    byId('totalMedicamentos').textContent = String(MEDICAMENTOS.length);
+    byId('categoriaAtual').textContent = getCurrentCategoryLabel(filteredItems);
+    byId('resultadosExibidos').textContent = String(currentPageItems.length);
+    updateSearchModeLayout();
+
+    const filteredCount = filteredItems.length;
+    const start = filteredCount ? ((currentPage - 1) * state.pageSize) + 1 : 0;
+    const end = filteredCount ? start + currentPageItems.length - 1 : 0;
+
+    const summary = filteredCount === 0
+        ? 'Nenhum medicamento encontrado com os filtros atuais.'
+        : filteredCount === MEDICAMENTOS.length && totalPages === 1
+            ? `Exibindo todos os ${MEDICAMENTOS.length} medicamentos.`
+            : `Mostrando ${start}-${end} de ${filteredCount} resultados (catálogo: ${MEDICAMENTOS.length}).`;
 
     byId('resultsSummary').textContent = summary;
 }
@@ -1644,14 +1761,23 @@ async function copyCodeToClipboard(code, triggerButton = null) {
 function applyFilters() {
     const filtered = filterMedicamentos();
     const ordered = sortMedicamentos(filtered);
-    renderMedicamentos(ordered);
-    updateStats(ordered);
+    const { currentPage, totalPages, pageItems } = paginateItems(ordered);
+
+    renderMedicamentos(pageItems);
+    updatePaginationControls(ordered.length, currentPage, totalPages);
+    updateStats(ordered, pageItems, currentPage, totalPages);
 }
 
 function clearFilters() {
+    if (searchDebounceTimer) {
+        clearTimeout(searchDebounceTimer);
+        searchDebounceTimer = null;
+    }
+
     state.search = '';
     state.category = '';
     state.sort = 'relevancia';
+    state.page = 1;
     byId('searchInput').value = '';
     byId('categoryFilter').value = '';
     byId('sortFilter').value = 'relevancia';
@@ -1678,24 +1804,71 @@ function toggleTheme() {
     localStorage.setItem(STORAGE_THEME_KEY, nextTheme);
 }
 
+function getSmallScreenMediaQuery() {
+    if (typeof window.matchMedia !== 'function') return null;
+    try {
+        return window.matchMedia('(max-width: 680px)');
+    } catch {
+        return null;
+    }
+}
+
+function applyPerformanceLiteMode() {
+    const hasLowMemory = Number(navigator.deviceMemory || 0) > 0 && navigator.deviceMemory <= 4;
+    const hasLowCpu = Number(navigator.hardwareConcurrency || 0) > 0 && navigator.hardwareConcurrency <= 4;
+    const smallScreenQuery = getSmallScreenMediaQuery();
+    const isSmallScreen = smallScreenQuery ? smallScreenQuery.matches : window.innerWidth <= 680;
+
+    const shouldEnableLite = hasLowMemory || hasLowCpu || isSmallScreen;
+    document.documentElement.classList.toggle('performance-lite', shouldEnableLite);
+}
+
 function initEvents() {
+    const smallScreenQuery = getSmallScreenMediaQuery();
+    if (smallScreenQuery && typeof smallScreenQuery.addEventListener === 'function') {
+        smallScreenQuery.addEventListener('change', applyPerformanceLiteMode);
+    } else if (smallScreenQuery && typeof smallScreenQuery.addListener === 'function') {
+        smallScreenQuery.addListener(applyPerformanceLiteMode);
+    }
+
     byId('searchInput').addEventListener('input', (event) => {
-        state.search = event.target.value;
-        applyFilters();
+        const value = event.target.value;
+        state.search = value;
+        state.page = 1;
+        updateSearchModeLayout();
+
+        if (searchDebounceTimer) {
+            clearTimeout(searchDebounceTimer);
+        }
+
+        searchDebounceTimer = window.setTimeout(() => {
+            applyFilters();
+        }, SEARCH_DEBOUNCE_MS);
     });
 
     byId('categoryFilter').addEventListener('change', (event) => {
         state.category = event.target.value;
+        state.page = 1;
         applyFilters();
     });
 
     byId('sortFilter').addEventListener('change', (event) => {
         state.sort = event.target.value || 'relevancia';
+        state.page = 1;
         applyFilters();
     });
 
     byId('clearSearch').addEventListener('click', clearFilters);
     byId('resetNoResults').addEventListener('click', clearFilters);
+    byId('prevPageBtn').addEventListener('click', () => {
+        if (state.page <= 1) return;
+        state.page -= 1;
+        applyFilters();
+    });
+    byId('nextPageBtn').addEventListener('click', () => {
+        state.page += 1;
+        applyFilters();
+    });
 
     byId('themeToggle').addEventListener('click', toggleTheme);
 
@@ -1730,8 +1903,10 @@ function initEvents() {
 }
 
 function init() {
+    buildMedicamentosIndex();
     populateCategoryFilter();
     initTheme();
+    applyPerformanceLiteMode();
     initEvents();
     applyFilters();
 }

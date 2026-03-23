@@ -417,6 +417,38 @@ body::before {
     gap: 12px;
 }
 
+.stats-grid.stats-grid-searching {
+    grid-template-columns: 1fr;
+}
+
+.stats-grid.stats-grid-searching .stat-card {
+    padding: 10px 12px;
+    gap: 10px;
+}
+
+.stats-grid.stats-grid-searching .stat-chip {
+    width: 34px;
+    height: 34px;
+    border-radius: 10px;
+}
+
+.stats-grid.stats-grid-searching .stat-card > div {
+    min-width: 0;
+}
+
+.stats-grid.stats-grid-searching .stat-label {
+    font-size: 0.72rem;
+    line-height: 1.1;
+}
+
+.stats-grid.stats-grid-searching .stat-value {
+    margin-top: 1px;
+    font-size: 1.03rem;
+    line-height: 1.18;
+    white-space: normal;
+    overflow-wrap: anywhere;
+}
+
 .stat-card {
     padding: 14px;
     display: flex;
@@ -493,6 +525,25 @@ body::before {
     letter-spacing: -0.01em;
 }
 
+.catalog-title {
+    display: inline-flex;
+    align-items: center;
+    gap: 9px;
+}
+
+.catalog-title-icon {
+    width: 30px;
+    height: 30px;
+    border-radius: 10px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--brand-strong);
+    background: var(--brand-soft);
+    border: 1px solid rgba(249, 115, 22, 0.28);
+    flex-shrink: 0;
+}
+
 .catalog-head p {
     margin: 0;
     color: var(--text-soft);
@@ -504,6 +555,35 @@ body::before {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
     gap: 12px;
+}
+
+.pagination {
+    margin-top: 14px;
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 10px;
+    align-items: center;
+}
+
+.pagination-info {
+    margin: 0;
+    text-align: center;
+    color: var(--text-soft);
+    font-size: 0.86rem;
+    font-weight: 700;
+}
+
+.pagination-btn {
+    min-height: 42px;
+    padding: 8px 14px;
+    font-size: 0.82rem;
+    white-space: nowrap;
+}
+
+.pagination-btn:disabled {
+    opacity: 0.58;
+    cursor: not-allowed;
+    transform: none !important;
 }
 
 .med-card {
@@ -958,6 +1038,26 @@ body::before {
     display: none !important;
 }
 
+.performance-lite .card-surface,
+.performance-lite .med-code-pill,
+.performance-lite .toast,
+.performance-lite .bula-modal-card {
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+}
+
+.performance-lite .catalog-header::before {
+    display: none;
+}
+
+.performance-lite .stat-card,
+.performance-lite .med-card,
+.performance-lite .btn,
+.performance-lite .theme-btn,
+.performance-lite .toast {
+    transition: none !important;
+}
+
 .no-results {
     padding-top: 6px;
 }
@@ -1163,6 +1263,19 @@ body::before {
 
     .catalog-shell {
         padding: 12px;
+    }
+
+    .pagination {
+        grid-template-columns: 1fr;
+    }
+
+    .pagination-btn {
+        width: 100%;
+        min-height: 44px;
+    }
+
+    .pagination-info {
+        order: -1;
     }
 
     .catalog-head {

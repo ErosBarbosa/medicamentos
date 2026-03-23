@@ -27,7 +27,7 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Sora:wght@500;600;700;800&display=swap"
         rel="stylesheet">
-    <link rel="stylesheet" href="css/styles.css?v=v8.5">
+    <link rel="stylesheet" href="css/styles.css?v=v8.11">
 </head>
 
 <body>
@@ -170,11 +170,28 @@
 
         <main class="catalog-shell card-surface">
             <div class="catalog-head">
-                <h2>Medicamentos disponíveis</h2>
+                <h2 class="catalog-title">
+                    <span class="catalog-title-icon" aria-hidden="true">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <rect x="7" y="2.5" width="10" height="4" rx="1.2"></rect>
+                            <rect x="6" y="6.5" width="12" height="15" rx="3"></rect>
+                            <line x1="9" y1="12" x2="15" y2="12"></line>
+                            <line x1="12" y1="9" x2="12" y2="15"></line>
+                        </svg>
+                    </span>
+                    <span>Medicamentos disponíveis</span>
+                </h2>
                 <p id="resultsSummary">Carregando itens...</p>
             </div>
 
             <div id="medicamentosContainer" class="medicamentos-grid" aria-live="polite"></div>
+
+            <nav id="paginationControls" class="pagination hidden" aria-label="Paginação de medicamentos">
+                <button id="prevPageBtn" class="btn btn-secondary pagination-btn" type="button">Página anterior</button>
+                <p id="paginationInfo" class="pagination-info">Página 1 de 1</p>
+                <button id="nextPageBtn" class="btn btn-secondary pagination-btn" type="button">Próxima página</button>
+            </nav>
 
             <section id="noResults" class="no-results hidden" aria-live="polite">
                 <div class="empty-state">
@@ -239,7 +256,7 @@
         </div>
     </div>
 
-    <script src="js/script.js?v=v8.5"></script>
+    <script src="js/script.js?v=v8.11"></script>
 </body>
 
 </html>
