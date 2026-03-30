@@ -176,12 +176,6 @@ const MEDICAMENTOS = [
         "apresentacao": "COMPRIMIDO"
     },
     {
-        "codigo": "BR031451700155",
-        "nome": "AZITROMICINA 40 MG/ML (1200 MG) PÓ PARA SUSPENSÃO 30 ML",
-        "categoria": "Antibiótico / Antimicrobiano",
-        "apresentacao": "FRASCO"
-    },
-    {
         "codigo": "BR0314517U0108",
         "nome": "AZITROMICINA 40 MG/ML (600 MG) PÓ PARA SUSPENSÃO 15 ML",
         "categoria": "Antibiótico / Antimicrobiano",
@@ -200,28 +194,10 @@ const MEDICAMENTOS = [
         "apresentacao": "COMPRIMIDO"
     },
     {
-        "codigo": "BR0270612U0118",
-        "nome": "BENZILPENICILINA BENZATINA 1.200.000 UI PÓ PARA SUSPENSÃO INJETÁVEL",
-        "categoria": "Antibiótico / Antimicrobiano",
-        "apresentacao": "FRASCO-AMPOLA"
-    },
-    {
         "codigo": "BR0270613U0118",
         "nome": "BENZILPENICILINA BENZATINA 600.000 UI PÓ PARA SUSPENSÃO INJETÁVEL",
         "categoria": "Antibiótico / Antimicrobiano",
         "apresentacao": "FRASCO-AMPOLA"
-    },
-    {
-        "codigo": "BR0270140U0042",
-        "nome": "BIPERIDENO, CLORIDRATO  2 MG COMPRIMIDO ELENCO ESTADUAL",
-        "categoria": "Assistência Farmacêutica",
-        "apresentacao": "COMPRIMIDO"
-    },
-    {
-        "codigo": "BR027014000042",
-        "nome": "BIPERIDENO, CLORIDRATO 2 MG COMPRIMIDO",
-        "categoria": "Assistência Farmacêutica",
-        "apresentacao": "COMPRIMIDO"
     },
     {
         "codigo": "BR0268352-1",
@@ -230,9 +206,9 @@ const MEDICAMENTOS = [
         "apresentacao": "FRASCO"
     },
     {
-        "codigo": "BR0271773",
-        "nome": "BROMAZEPAM 3 MG COMPRIMIDO",
-        "categoria": "Saúde Mental",
+        "codigo": "BR0267613U0042",
+        "nome": "CAPTOPRIL 25 MG COMPRIMIDO",
+        "categoria": "Anti-hipertensivo / Diur?tico",
         "apresentacao": "COMPRIMIDO"
     },
     {
@@ -246,12 +222,6 @@ const MEDICAMENTOS = [
         "nome": "CARBAMAZEPINA 20 MG/ML XAROPE 100 ML",
         "categoria": "Anticonvulsivante / Controlado",
         "apresentacao": "FRASCO"
-    },
-    {
-        "codigo": "BR0267618U0042",
-        "nome": "CARBAMAZEPINA 200 MG COMPRIMIDO",
-        "categoria": "Anticonvulsivante / Controlado",
-        "apresentacao": "COMPRIMIDO"
     },
     {
         "codigo": "BR0267617U0042",
@@ -380,18 +350,6 @@ const MEDICAMENTOS = [
         "apresentacao": "BISNAGA (BS.)"
     },
     {
-        "codigo": "BR0267197U0042",
-        "nome": "DIAZEPAM 10 MG COMPRIMIDO",
-        "categoria": "Anticonvulsivante / Controlado",
-        "apresentacao": "COMPRIMIDO"
-    },
-    {
-        "codigo": "BR0267195U0042",
-        "nome": "DIAZEPAM 5 MG COMPRIMIDO",
-        "categoria": "Anticonvulsivante / Controlado",
-        "apresentacao": "COMPRIMIDO"
-    },
-    {
         "codigo": "BR0267647U0042",
         "nome": "DIGOXINA 0,25 MG COMPRIMIDO",
         "categoria": "Assistência Farmacêutica Básica",
@@ -470,12 +428,6 @@ const MEDICAMENTOS = [
         "apresentacao": "COMPRIMIDO"
     },
     {
-        "codigo": "BR0244715",
-        "nome": "ESPÁTULA AYRES (18 CM, DESCARTÁVEL)",
-        "categoria": "Material Médico / Hospitalar",
-        "apresentacao": "UNIDADE"
-    },
-    {
         "codigo": "BR0275471",
         "nome": "ESPÉCULO VAGINAL, GRANDE",
         "categoria": "Material Médico / Hospitalar",
@@ -500,16 +452,10 @@ const MEDICAMENTOS = [
         "apresentacao": "COMPRIMIDO"
     },
     {
-        "codigo": "BR0267660U0042",
-        "nome": "FENOBARBITAL 100 MG COMPRIMIDO",
-        "categoria": "Anticonvulsivante / Controlado",
-        "apresentacao": "COMPRIMIDO"
-    },
-    {
-        "codigo": "BR0300723U0086",
-        "nome": "FENOBARBITAL 40 MG/ML SOLUÇÃO ORAL 20 ML",
-        "categoria": "Anticonvulsivante / Controlado",
-        "apresentacao": "FRASCO"
+        "codigo": "BR0293086-2",
+        "nome": "FITA ADESIVA MICROPOROSA, 50 MM X 4,5 M, BRANCA, HIPO-ALERGÊNICA",
+        "categoria": "Material M?dico / Hospitalar",
+        "apresentacao": "UNIDADE"
     },
     {
         "codigo": "BR0230812",
@@ -570,12 +516,6 @@ const MEDICAMENTOS = [
         "nome": "GLICOSE 5 % SOLUÇÃO INJETÁVEL 500 ML SISTEMA FECHADO",
         "categoria": "Assistência Farmacêutica",
         "apresentacao": "FRASCO"
-    },
-    {
-        "codigo": "BR027009200039",
-        "nome": "GLICOSE 5% SOLUÇÃO INJETÁVEL 500 ML (SISTEMA FECHADO)",
-        "categoria": "Soluções / Antissépticos",
-        "apresentacao": "UNIDADE"
     },
     {
         "codigo": "BR0267541U0004",
@@ -644,12 +584,6 @@ const MEDICAMENTOS = [
         "apresentacao": "FRASCO"
     },
     {
-        "codigo": "BR0268331U0075",
-        "nome": "IPRATRÓPIO, BROMETO 0,25 MG/ML SOLUÇÃO PARA INALAÇÃO 15 ML",
-        "categoria": "Broncodilatador",
-        "apresentacao": "FRASCO"
-    },
-    {
         "codigo": "BR0268331U0086",
         "nome": "IPRATRÓPIO, BROMETO 0,25 MG/ML SOLUÇÃO PARA INALAÇÃO 20 ML",
         "categoria": "Broncodilatador",
@@ -704,12 +638,6 @@ const MEDICAMENTOS = [
         "apresentacao": "UNIDADE"
     },
     {
-        "codigo": "BR0325098",
-        "nome": "LÂMINA VIDRO (BORDA FOSCA, 76,2 X 25,4 MM)",
-        "categoria": "Material Médico / Hospitalar",
-        "apresentacao": "UNIDADE"
-    },
-    {
         "codigo": "BR0267692",
         "nome": "MEBENDAZOL 100 MG COMPRIMIDO",
         "categoria": "Anti-helmíntico / Antiparasitário",
@@ -740,9 +668,27 @@ const MEDICAMENTOS = [
         "apresentacao": "COMPRIMIDO"
     },
     {
+        "codigo": "BR0267691U0042",
+        "nome": "METFORMINA, CLORIDRATO 850 MG COMPRIMIDO",
+        "categoria": "Antidiab?tico",
+        "apresentacao": "COMPRIMIDO"
+    },
+    {
+        "codigo": "BR0465425",
+        "nome": "METFORMINA, CLORIDRATO 850 MG COMPRIMIDO DE LIBERAÇÃO PROLONGADA",
+        "categoria": "Antidiab?tico",
+        "apresentacao": "COMPRIMIDO"
+    },
+    {
         "codigo": "BR0267689U0042",
         "nome": "METILDOPA 250 MG COMPRIMIDO",
         "categoria": "Anti-hipertensivo / Diurético",
+        "apresentacao": "COMPRIMIDO"
+    },
+    {
+        "codigo": "BR0267688",
+        "nome": "METILDOPA 500 MG COMPRIMIDO",
+        "categoria": "Anti-hipertensivo / Diur?tico",
         "apresentacao": "COMPRIMIDO"
     },
     {
@@ -914,10 +860,10 @@ const MEDICAMENTOS = [
         "apresentacao": "COMPRIMIDO (COMP)"
     },
     {
-        "codigo": "BR0267768U0042",
-        "nome": "PROMETAZINA, CLORIDRATO 25 MG COMPRIMIDO",
-        "categoria": "Antialérgico / Expectorante",
-        "apresentacao": "COMPRIMIDO (COMP)"
+        "codigo": "BR0462334",
+        "nome": "PRESERVATIVO MASCULINO BORRACHA NATURAL COMPRIMENTO MÍNIMO DE 160 MM LARGURA NOMINAL 52 MM ESPESSURA MÍN. 0,03MM LUBRIFICADO, S/ ESPERMICIDA ,S/ ODOR LUBRIFICADO, S/ ESPERMICIDA ,S/ ODOR QUANTIDADE DE LUBRIFICANTE ENTRE 400 E 700MG TEXTURIZADO",
+        "categoria": "Assist?ncia Farmac?utica",
+        "apresentacao": "UNIDADE"
     },
     {
         "codigo": "BR0267772U0042",
@@ -940,12 +886,6 @@ const MEDICAMENTOS = [
     {
         "codigo": "BR0268390",
         "nome": "SAIS PARA REIDRATAÇÃO ORAL (PÓ CONTENDO 27,9 G)",
-        "categoria": "Assistência Farmacêutica Básica",
-        "apresentacao": "UNIDADE"
-    },
-    {
-        "codigo": "BR0259680",
-        "nome": "SAIS PARA REIDRATAÇÃO ORAL (SACHÊ 26 G)",
         "categoria": "Assistência Farmacêutica Básica",
         "apresentacao": "UNIDADE"
     },
@@ -992,22 +932,10 @@ const MEDICAMENTOS = [
         "apresentacao": "UNIDADE"
     },
     {
-        "codigo": "BR028504000140",
-        "nome": "SERINGA PARA INSULINA 1 ML (COM AGULHA 13 X 3,8)",
-        "categoria": "Antidiabético",
-        "apresentacao": "UNIDADE"
-    },
-    {
         "codigo": "BR0285040U0140",
         "nome": "SERINGA PARA INSULINA, 1 ML, APIROGÊNICA E ATÓXICA, 100 UI COM BOA VISUALIZAÇÃO, DESCARTÁVEL, ESTÉRIL, AGULHA 13 X 3,8",
         "categoria": "Material Médico / Hospitalar",
         "apresentacao": "UNIDADE"
-    },
-    {
-        "codigo": "BR041296600063",
-        "nome": "SIMETICONA 75 MG/ML EMULSÃO ORAL 10 ML",
-        "categoria": "Assistência Farmacêutica / Assistência Farmacêutica Básica",
-        "apresentacao": "FRASCO"
     },
     {
         "codigo": "BR0412966U0063",
@@ -1118,12 +1046,6 @@ const MEDICAMENTOS = [
         "apresentacao": "UNIDADE"
     },
     {
-        "codigo": "BR0339565U0140",
-        "nome": "TIRA REAGENTE PARA MEDIR GLICEMIA CAPILAR",
-        "categoria": "Material Médico / Hospitalar",
-        "apresentacao": "UNIDADE"
-    },
-    {
         "codigo": "BR0332930",
         "nome": "TOUCA DESCARTÁVEL (TAMANHO ÚNICO)",
         "categoria": "Material Médico / Hospitalar",
@@ -1160,12 +1082,6 @@ const MEDICAMENTOS = [
         "apresentacao": "CÁPSULA"
     },
     {
-        "codigo": "BR030873200062",
-        "nome": "ÁCIDO VALPRÓICO (VALPROATO DE SÓDIO) 50 MG/ML XAROPE 100 ML",
-        "categoria": "Anticonvulsivante / Controlado",
-        "apresentacao": "FRASCO"
-    },
-    {
         "codigo": "BR0267505U0042",
         "nome": "ÁCIDO VALPRÓICO (VALPROATO DE SÓDIO) 500 MG COMPRIMIDO",
         "categoria": "Anticonvulsivante / Controlado",
@@ -1176,12 +1092,6 @@ const MEDICAMENTOS = [
         "nome": "ÁGUA DESTILADA SOLUÇÃO INJETÁVEL 10 ML",
         "categoria": "Soluções / Antissépticos",
         "apresentacao": "AMPOLA"
-    },
-    {
-        "codigo": "BR026994300171",
-        "nome": "ÁLCOOL ETÍLICO 70% GEL 500 G",
-        "categoria": "Soluções / Antissépticos",
-        "apresentacao": "UNIDADE"
     },
     {
         "codigo": "BR0269943U0103",
