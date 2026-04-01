@@ -1,34 +1,55 @@
-📑 Hórus Medicamentos - Facilitador de Busca
-O Hórus Medicamentos é uma ferramenta desenvolvida para otimizar o fluxo de trabalho de profissionais de saúde e gestores de farmácia que utilizam o sistema Hórus SUS. O objetivo principal é centralizar a consulta de códigos e apresentações de medicamentos, reduzindo erros de digitação e agilizando a conferência no Almoxarifado.
+# Guia Municipal de Medicamentos | IntegraFarma Oeiras
 
-🚀 O Problema
-No dia a dia do sistema Hórus SUS, a busca por códigos específicos de dispensação pode ser lenta ou induzir ao erro devido à vasta lista de itens e nomenclaturas similares. Isso gera gargalos no atendimento e inconsistências no estoque (Almoxarifado).
+O **Guia Municipal de Medicamentos** é um módulo do **IntegraFarma Oeiras**,
+criado para qualificar a rotina da assistência farmacêutica municipal e apoiar
+o uso do sistema Hórus com mais segurança, rapidez e padronização.
 
-✨ A Solução
-Esta aplicação web oferece uma interface intuitiva onde o usuário pode:
+## Objetivo
 
-Busca Instantânea: Localizar medicamentos por nome ou princípio ativo.
+Facilitar a localização dos medicamentos efetivamente padronizados pela
+Secretaria Municipal de Saúde de Oeiras, reduzindo ambiguidades, pedidos
+inconsistentes e retrabalho no dia a dia das equipes.
 
-Filtro por Categorias: Filtrar rapidamente entre Antibióticos, Anti-hipertensivos, Material Médico, etc.
+## Problema enfrentado
 
-Cópia de Código com Um Clique: Botão "Copiar Código" que envia o ID do medicamento direto para a área de transferência, eliminando erros de transcrição manual.
+No uso cotidiano do Hórus, a base ampla de itens e as nomenclaturas
+semelhantes podem dificultar a busca rápida pelo medicamento correto. Isso
+pode gerar erros de digitação, lentidão no atendimento e inconsistências no
+fluxo de trabalho.
 
-Visualização de Estoque: Painel rápido com o total de itens cadastrados.
+## Solucao adotada
 
-🛠️ Tecnologias Utilizadas
-Frontend: HTML5, CSS3 (Layout responsivo com foco em UX).
+Esta aplicação web organiza a lista municipal de medicamentos em uma interface
+simples, responsiva e fácil de consultar, com:
 
-Interatividade: JavaScript Vanilla para filtros dinâmicos e manipulação do DOM.
+- busca por nome ou código;
+- filtro por categoria;
+- ordenação inteligente;
+- visualização do total de itens;
+- navegação focada na rotina das equipes.
 
-Ícones: Font Awesome / Google Material Icons.
+## Posicionamento da ferramenta
 
-📸 Demonstração
-(Dica: Adicione um GIF aqui mostrando você filtrando e copiando um código)
+O protagonismo da experiência está na **solução municipal criada por Oeiras**.
+O Hórus permanece como sistema oficial de referência, enquanto o Guia
+Municipal de Medicamentos atua como ferramenta de apoio para tornar seu uso
+mais viável, organizado e sustentável no SUS municipal.
 
-📦 Como executar o projeto
-Clone o repositório:
+## Estrutura do projeto
 
-Bash
+- `index.html`: estrutura da interface
+- `css/styles.css`: estilos do catalogo
+- `js/`: lógica da busca, filtros e renderização
+- `data/`: base de medicamentos utilizada no catalogo
 
-git clone https://github.com/seu-usuario/horus-medicamentos.git
-Abra o arquivo index.html no seu navegador ou utilize a extensão Live Server no VS Code.
+## Como executar localmente
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/ErosBarbosa/medicamentos.git
+```
+
+2. Abra o arquivo `index.html` no navegador.
+
+Se preferir, use uma extensão de servidor local, como o Live Server no VS Code.
